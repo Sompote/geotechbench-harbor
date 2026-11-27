@@ -1,0 +1,35 @@
+schema_version = "1.3"
+artifacts = ["/app/answers.json", "/app/solution.md"]
+
+[task]
+name = "geotechbench/m4p-303"
+description = "GeoTechBench M4P-303: pile axial capacity design calculation, 1 graded quantity"
+authors = []
+keywords = ["geotechnical-engineering", "pile-axial", "train-v1"]
+
+[metadata]
+category = "geotechnical_engineering"
+tags = ["pile_axial", "train_v1", "manual_v04.usace-em-1110-1-1905"]
+problem_id = "M4P-303"
+method = "pile_axial"
+family = "manual_v04.usace-em-1110-1-1905"
+template_id = "usace-em-1110-1-1905__figure-5-21-cpt-tip-example"
+split = "train_v1"
+dataset_version = "0.4.1"
+tier = "manual_v04"
+source = "usace-em-1110-1-1905"
+citation = "EM 1110-1-1905 Bearing Capacity of Soils (1992), Figure 5-21 CPT tip example, p. 5-55, 5-56"
+license = "public-domain-us-gov"
+
+[verifier]
+timeout_sec = 120.0
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 900.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 4096
+network_mode = "public"

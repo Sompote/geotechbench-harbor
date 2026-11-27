@@ -1,0 +1,25 @@
+{
+  "problem_id": "SP-606-039b848416f7",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "fs_seepage",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 1.327132178049609
+    },
+    {
+      "name": "fs_total",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 1.1353650391929417
+    },
+    {
+      "name": "fs_governing",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 1.1353650391929417
+    }
+  ]
+}

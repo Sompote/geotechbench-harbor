@@ -1,0 +1,31 @@
+{
+  "problem_id": "T4P-SP-04-67b7dac041ac",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_total",
+      "tolerance_pct": 2.0,
+      "unit": "m3/day",
+      "value": 2.7578880000000003
+    },
+    {
+      "name": "i_exit",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 0.7037037037037037
+    },
+    {
+      "name": "u_base_points",
+      "tolerance_pct": 2.0,
+      "unit": "kPa",
+      "value": 169.713
+    },
+    {
+      "name": "FS_piping",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 1.4760985031385803
+    }
+  ]
+}

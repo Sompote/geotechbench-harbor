@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-012",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "c_w_gamma",
+      "tolerance_pct": 7.15,
+      "unit": "dimensionless",
+      "value": 0.7
+    }
+  ]
+}

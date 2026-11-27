@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-297",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "f_s_sand_beta_ksf",
+      "tolerance_pct": 2.95,
+      "unit": "ksf",
+      "value": 1.7
+    }
+  ]
+}

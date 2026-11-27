@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-546",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "u_f_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 0.7371
+    },
+    {
+      "name": "p_r_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 1.54
+    },
+    {
+      "name": "t_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 5.28
+    }
+  ]
+}

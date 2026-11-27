@@ -1,0 +1,31 @@
+{
+  "problem_id": "M4P-584",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "u_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 13.36
+    },
+    {
+      "name": "x_u_ft",
+      "tolerance_pct": 0.5,
+      "unit": "ft",
+      "value": 11.6
+    },
+    {
+      "name": "f_landside_water_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 1.77
+    },
+    {
+      "name": "w_static_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 3.664
+    }
+  ]
+}

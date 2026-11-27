@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-504",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "p_gamma_kips_per_ft",
+      "tolerance_pct": 0.5,
+      "unit": "kips/ft",
+      "value": 26.027
+    },
+    {
+      "name": "p_v_kips_per_ft",
+      "tolerance_pct": 0.5,
+      "unit": "kips/ft",
+      "value": -4.582
+    },
+    {
+      "name": "p_ee_kips_per_ft",
+      "tolerance_pct": 0.5,
+      "unit": "kips/ft",
+      "value": 21.445
+    }
+  ]
+}

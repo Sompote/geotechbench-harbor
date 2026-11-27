@@ -1,0 +1,13 @@
+{
+  "problem_id": "PL-307-d3fb2b07e70c",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "l_req_m",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 15.217577424097001
+    }
+  ]
+}

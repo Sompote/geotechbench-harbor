@@ -1,0 +1,20 @@
+{
+  "problem_id": "RW-408-119d378ed2e4",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "fs_sliding",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 1.3025270634602526
+    },
+    {
+      "kind": "verdict",
+      "name": "verdict",
+      "tolerance_pct": 0.0,
+      "unit": "-",
+      "value": "not adequate"
+    }
+  ]
+}

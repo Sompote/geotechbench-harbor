@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-PL-08-a2e9fe6acbaa",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "Q_ult",
+      "tolerance_pct": 2.0,
+      "unit": "kN",
+      "value": 1330.1306945758336
+    },
+    {
+      "name": "Q_allow",
+      "tolerance_pct": 2.0,
+      "unit": "kN",
+      "value": 443.3768981919445
+    }
+  ]
+}

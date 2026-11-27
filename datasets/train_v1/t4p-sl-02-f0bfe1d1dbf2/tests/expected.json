@@ -1,0 +1,25 @@
+{
+  "problem_id": "T4P-SL-02-f0bfe1d1dbf2",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "sum_resisting",
+      "tolerance_pct": 2.0,
+      "unit": "kN/m",
+      "value": 431.49647057361904
+    },
+    {
+      "name": "sum_driving",
+      "tolerance_pct": 2.0,
+      "unit": "kN/m",
+      "value": 191.41677878432353
+    },
+    {
+      "name": "FS_OMS",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 2.2542249081508277
+    }
+  ]
+}

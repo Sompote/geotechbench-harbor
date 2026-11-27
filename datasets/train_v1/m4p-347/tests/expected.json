@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-347",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "s0_ft",
+      "tolerance_pct": 1.39,
+      "unit": "ft",
+      "value": 360.0
+    }
+  ]
+}

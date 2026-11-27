@@ -1,0 +1,35 @@
+schema_version = "1.3"
+artifacts = ["/app/answers.json", "/app/solution.md"]
+
+[task]
+name = "geotechbench/m4p-228"
+description = "GeoTechBench M4P-228: retaining wall design calculation, 1 graded quantity"
+authors = []
+keywords = ["geotechnical-engineering", "retaining-wall", "train-v1"]
+
+[metadata]
+category = "geotechnical_engineering"
+tags = ["retaining_wall", "train_v1", "manual_v04.navfac-dm7-02"]
+problem_id = "M4P-228"
+method = "retaining_wall"
+family = "manual_v04.navfac-dm7-02"
+template_id = "navfac-dm7-02__ch3-fig-21-example"
+split = "train_v1"
+dataset_version = "0.4.1"
+tier = "manual_v04"
+source = "navfac-dm7-02"
+citation = "Foundations and Earth Structures, Design Manual 7.02 (NAVFAC DM-7.02) (1986), Ch3 Fig 21 example, p. 7.2-93"
+license = "public-domain-us-gov"
+
+[verifier]
+timeout_sec = 120.0
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 900.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 4096
+network_mode = "public"

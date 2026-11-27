@@ -1,0 +1,13 @@
+{
+  "problem_id": "T4P-SL-07-ca244d1ba030",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "FS_wedge",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 1.9659240920549947
+    }
+  ]
+}

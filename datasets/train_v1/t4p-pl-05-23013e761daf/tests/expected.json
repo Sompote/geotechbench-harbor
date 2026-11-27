@@ -1,0 +1,25 @@
+{
+  "problem_id": "T4P-PL-05-23013e761daf",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "Q_shaft",
+      "tolerance_pct": 2.0,
+      "unit": "kN",
+      "value": 757.1269514728397
+    },
+    {
+      "name": "Q_base",
+      "tolerance_pct": 2.0,
+      "unit": "kN",
+      "value": 1052.0552911970888
+    },
+    {
+      "name": "Q_allow",
+      "tolerance_pct": 2.0,
+      "unit": "kN",
+      "value": 603.0607475566428
+    }
+  ]
+}

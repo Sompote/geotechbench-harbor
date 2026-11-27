@@ -1,0 +1,25 @@
+{
+  "problem_id": "T4P-ST-02-dc534341eff5",
+  "method": "shallow_settlement",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "z_influence",
+      "tolerance_pct": 2.0,
+      "unit": "ft",
+      "value": 5.630706107846933
+    },
+    {
+      "name": "N_avg",
+      "tolerance_pct": 2.0,
+      "unit": "blows/ft",
+      "value": 18.333333333333332
+    },
+    {
+      "name": "settlement",
+      "tolerance_pct": 2.0,
+      "unit": "in.",
+      "value": 0.2716254013915163
+    }
+  ]
+}

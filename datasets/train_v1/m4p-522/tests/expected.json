@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-522",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "k1",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.5468
+    },
+    {
+      "name": "k_foundation",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.347
+    },
+    {
+      "name": "k_v",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.5952
+    }
+  ]
+}

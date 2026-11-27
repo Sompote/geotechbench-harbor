@@ -1,0 +1,25 @@
+{
+  "problem_id": "T4P-SB-07-de0ad6576731",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "B_eff",
+      "tolerance_pct": 2.0,
+      "unit": "ft",
+      "value": 7.018181818181818
+    },
+    {
+      "name": "q_ult",
+      "tolerance_pct": 2.0,
+      "unit": "ksf",
+      "value": 29.36307241288252
+    },
+    {
+      "name": "Q_ult",
+      "tolerance_pct": 2.0,
+      "unit": "kips",
+      "value": 2782.017642609651
+    }
+  ]
+}

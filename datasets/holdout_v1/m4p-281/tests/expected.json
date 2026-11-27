@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-281",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "sigma_s_mean_ksf",
+      "tolerance_pct": 2.39,
+      "unit": "ksf",
+      "value": 2.1
+    },
+    {
+      "name": "sigma_l_ksf",
+      "tolerance_pct": 2.09,
+      "unit": "ksf",
+      "value": 2.4
+    }
+  ]
+}

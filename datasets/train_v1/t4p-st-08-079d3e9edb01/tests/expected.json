@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-ST-08-079d3e9edb01",
+  "method": "shallow_settlement",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "s_permanent",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 245.52243403899163
+    },
+    {
+      "name": "surcharge_height",
+      "tolerance_pct": 3.0,
+      "unit": "m",
+      "value": 0.5701606315301652
+    }
+  ]
+}

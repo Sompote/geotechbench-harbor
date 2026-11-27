@@ -1,0 +1,13 @@
+{
+  "problem_id": "GT-014",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_driving_tons",
+      "tolerance_pct": 0.5,
+      "unit": "tons",
+      "value": 125.0
+    }
+  ]
+}

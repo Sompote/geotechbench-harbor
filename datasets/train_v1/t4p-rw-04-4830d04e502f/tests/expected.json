@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-RW-04-4830d04e502f",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "f_rotation",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 5.991712928369635
+    },
+    {
+      "name": "d_embedment",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 7.489641160462044
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "M4P-534",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "p_earth_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 51.77
+    },
+    {
+      "name": "y_earth_ft",
+      "tolerance_pct": 0.5,
+      "unit": "ft",
+      "value": 22.08
+    },
+    {
+      "name": "p_b_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 1.3018
+    },
+    {
+      "name": "p_c_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 2.0035
+    }
+  ]
+}

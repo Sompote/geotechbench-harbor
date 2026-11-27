@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-102",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "lambda_c_phi_trial_1",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 3.06
+    }
+  ]
+}

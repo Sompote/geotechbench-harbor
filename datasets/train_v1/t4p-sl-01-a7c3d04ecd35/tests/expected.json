@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-SL-01-a7c3d04ecd35",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "FS_dry",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 2.593824274130289
+    },
+    {
+      "name": "FS_seepage",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 1.400932018272778
+    }
+  ]
+}

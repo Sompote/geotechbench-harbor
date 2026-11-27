@@ -1,0 +1,25 @@
+{
+  "problem_id": "T4P-SP-07-70f52f566732",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "u_heel",
+      "tolerance_pct": 2.0,
+      "unit": "kPa",
+      "value": 328.71675
+    },
+    {
+      "name": "uplift_force",
+      "tolerance_pct": 2.0,
+      "unit": "kN/m",
+      "value": 3891.3
+    },
+    {
+      "name": "FS_uplift",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 3.9678256623750414
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-298",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_sz_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 114.0
+    },
+    {
+      "name": "f_s_sand_nordlund_ksf",
+      "tolerance_pct": 3.13,
+      "unit": "ksf",
+      "value": 1.6
+    }
+  ]
+}

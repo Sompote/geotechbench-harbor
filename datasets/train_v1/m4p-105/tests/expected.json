@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-105",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "tan_phi_av",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.236
+    },
+    {
+      "name": "phi_av_deg",
+      "tolerance_pct": 0.5,
+      "unit": "deg",
+      "value": 13.3
+    }
+  ]
+}

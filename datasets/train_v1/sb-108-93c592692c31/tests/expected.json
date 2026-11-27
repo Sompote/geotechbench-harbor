@@ -1,0 +1,13 @@
+{
+  "problem_id": "SB-108-93c592692c31",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "b_req_ft",
+      "tolerance_pct": 2.0,
+      "unit": "ft",
+      "value": 3.9846279200273313
+    }
+  ]
+}

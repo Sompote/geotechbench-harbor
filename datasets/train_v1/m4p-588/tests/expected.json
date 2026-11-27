@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-588",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 33.91
+    },
+    {
+      "name": "fs_bearing",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 2.22
+    }
+  ]
+}

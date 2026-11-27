@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-521",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "alpha2_deg",
+      "tolerance_pct": 0.5,
+      "unit": "deg",
+      "value": 59.76
+    },
+    {
+      "name": "h_ab_ft",
+      "tolerance_pct": 0.5,
+      "unit": "ft",
+      "value": 27.083
+    },
+    {
+      "name": "alpha1_deg",
+      "tolerance_pct": 0.5,
+      "unit": "deg",
+      "value": 46.55
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "problem_id": "T4P-PG-03-c32eb17702d3",
+  "method": "pile_group",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "k_raft",
+      "tolerance_pct": 2.0,
+      "unit": "kN/mm",
+      "value": 3664.928954612724
+    },
+    {
+      "name": "alpha_rp",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 0.7275984494532747
+    },
+    {
+      "name": "k_piled_raft",
+      "tolerance_pct": 2.0,
+      "unit": "kN/mm",
+      "value": 8802.99987012867
+    },
+    {
+      "name": "cap_share",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 0.14720897028209784
+    },
+    {
+      "name": "w_avg",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 24.491650934995263
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "M4P-614",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "w_t_slice2_lb",
+      "tolerance_pct": 1.0,
+      "unit": "lbs",
+      "value": 8800.0
+    },
+    {
+      "name": "t_slice2_lb",
+      "tolerance_pct": 0.5,
+      "unit": "lbs",
+      "value": 7119.0
+    },
+    {
+      "name": "n_eff_slice2_lb",
+      "tolerance_pct": 0.5,
+      "unit": "lbs",
+      "value": 5173.0
+    },
+    {
+      "name": "n_tan_phi_slice2_lb",
+      "tolerance_pct": 0.5,
+      "unit": "lbs",
+      "value": 3758.0
+    }
+  ]
+}

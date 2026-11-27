@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-226",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "x_zero_shear_ft",
+      "tolerance_pct": 0.5,
+      "unit": "ft",
+      "value": 13.6
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-027",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "r_sn_layer1_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 197.2
+    },
+    {
+      "name": "r_sn_layer2_kips",
+      "tolerance_pct": 1.3,
+      "unit": "kips",
+      "value": 635.6
+    }
+  ]
+}

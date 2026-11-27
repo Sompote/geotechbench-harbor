@@ -1,0 +1,13 @@
+{
+  "problem_id": "GT-001",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_ult_psf",
+      "tolerance_pct": 0.5,
+      "unit": "psf",
+      "value": 13425.0
+    }
+  ]
+}

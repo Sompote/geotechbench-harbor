@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-227",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "m_max_ft_kips",
+      "tolerance_pct": 0.5,
+      "unit": "ft-kips",
+      "value": 86.9
+    }
+  ]
+}

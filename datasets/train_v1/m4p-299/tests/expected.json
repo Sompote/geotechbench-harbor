@@ -1,0 +1,31 @@
+{
+  "problem_id": "M4P-299",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "w_p_kips",
+      "tolerance_pct": 6.25,
+      "unit": "kips",
+      "value": 8.0
+    },
+    {
+      "name": "q_bu_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 209.0
+    },
+    {
+      "name": "q_su_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 141.0
+    },
+    {
+      "name": "q_u_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 342.0
+    }
+  ]
+}

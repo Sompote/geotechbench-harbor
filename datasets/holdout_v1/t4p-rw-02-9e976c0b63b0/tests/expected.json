@@ -1,0 +1,31 @@
+{
+  "problem_id": "T4P-RW-02-9e976c0b63b0",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "P_active",
+      "tolerance_pct": 2.0,
+      "unit": "kN/m",
+      "value": 70.86716281877337
+    },
+    {
+      "name": "B_sliding",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 1.9598854968904937
+    },
+    {
+      "name": "B_overturning",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 2.026879701123735
+    },
+    {
+      "name": "B_design",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 2.026879701123735
+    }
+  ]
+}

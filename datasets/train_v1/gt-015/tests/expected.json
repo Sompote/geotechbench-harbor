@@ -1,0 +1,13 @@
+{
+  "problem_id": "GT-015",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_u_tons",
+      "tolerance_pct": 1.0,
+      "unit": "tons",
+      "value": 80.0
+    }
+  ]
+}

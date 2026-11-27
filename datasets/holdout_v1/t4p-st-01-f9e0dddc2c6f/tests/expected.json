@@ -1,0 +1,31 @@
+{
+  "problem_id": "T4P-ST-01-f9e0dddc2c6f",
+  "method": "shallow_settlement",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "w_immediate",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 24.69771031643942
+    },
+    {
+      "name": "w_consolidation",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 147.54300681028613
+    },
+    {
+      "name": "w_total",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 172.24071712672554
+    },
+    {
+      "name": "B_required",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 3.9126680136754928
+    }
+  ]
+}

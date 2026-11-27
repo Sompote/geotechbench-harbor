@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-576",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "n_prime_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 53.92
+    },
+    {
+      "name": "t_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 10.79
+    },
+    {
+      "name": "a_ft",
+      "tolerance_pct": 0.5,
+      "unit": "ft",
+      "value": 17.65
+    }
+  ]
+}

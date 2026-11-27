@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-013",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_ult_constant_kpa",
+      "tolerance_pct": 0.5,
+      "unit": "kPa",
+      "value": 1438.0
+    },
+    {
+      "name": "q_ult_coefficient_kpa_per_m",
+      "tolerance_pct": 2.6,
+      "unit": "kPa/m",
+      "value": 535.0
+    }
+  ]
+}

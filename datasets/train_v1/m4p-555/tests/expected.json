@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-555",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "n_prime_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 9.58
+    },
+    {
+      "name": "t_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 3.69
+    },
+    {
+      "name": "x_r_ft",
+      "tolerance_pct": 0.5,
+      "unit": "ft",
+      "value": 5.78
+    }
+  ]
+}

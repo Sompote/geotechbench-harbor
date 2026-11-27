@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-111",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "k_a",
+      "tolerance_pct": 1.52,
+      "unit": "dimensionless",
+      "value": 0.33
+    }
+  ]
+}

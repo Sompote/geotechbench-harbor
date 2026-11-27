@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-618",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "w_t_slice6_lb",
+      "tolerance_pct": 0.5,
+      "unit": "lbs",
+      "value": 93720.0
+    },
+    {
+      "name": "t_slice6_lb",
+      "tolerance_pct": 0.5,
+      "unit": "lbs",
+      "value": 39608.0
+    },
+    {
+      "name": "cl_slice6_lb",
+      "tolerance_pct": 0.5,
+      "unit": "lbs",
+      "value": 16500.0
+    }
+  ]
+}

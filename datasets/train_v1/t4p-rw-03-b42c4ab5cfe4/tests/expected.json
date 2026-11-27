@@ -1,0 +1,31 @@
+{
+  "problem_id": "T4P-RW-03-b42c4ab5cfe4",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "P_coulomb",
+      "tolerance_pct": 2.0,
+      "unit": "kN/m",
+      "value": 179.07108461659294
+    },
+    {
+      "name": "P_lancellotta",
+      "tolerance_pct": 2.0,
+      "unit": "kN/m",
+      "value": 170.54920738325535
+    },
+    {
+      "name": "P_arching",
+      "tolerance_pct": 2.0,
+      "unit": "kN/m",
+      "value": 176.62297852552177
+    },
+    {
+      "name": "h_resultant",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 3.163966725617846
+    }
+  ]
+}

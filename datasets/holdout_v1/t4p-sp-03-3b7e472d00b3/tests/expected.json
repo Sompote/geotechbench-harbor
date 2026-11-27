@@ -1,0 +1,25 @@
+{
+  "problem_id": "T4P-SP-03-3b7e472d00b3",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "hp_points",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 19.7
+    },
+    {
+      "name": "h_points",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 9.0
+    },
+    {
+      "name": "u_base",
+      "tolerance_pct": 2.0,
+      "unit": "kPa",
+      "value": 58.719857142857165
+    }
+  ]
+}

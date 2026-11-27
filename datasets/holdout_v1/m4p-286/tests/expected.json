@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-286",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "f_s_clay_ksf",
+      "tolerance_pct": 5.0,
+      "unit": "ksf",
+      "value": 1.0
+    },
+    {
+      "name": "f_s_sand_ksf",
+      "tolerance_pct": 10.0,
+      "unit": "ksf",
+      "value": 0.5
+    }
+  ]
+}

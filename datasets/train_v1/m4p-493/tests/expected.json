@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-493",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "k1_wedge1",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.5468
+    },
+    {
+      "name": "k1_wedge2",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.7279
+    },
+    {
+      "name": "k_v_wedge2",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.3514
+    }
+  ]
+}

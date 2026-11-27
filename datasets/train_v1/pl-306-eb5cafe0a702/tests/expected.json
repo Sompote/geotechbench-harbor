@@ -1,0 +1,20 @@
+{
+  "problem_id": "PL-306-eb5cafe0a702",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_all_kn",
+      "tolerance_pct": 2.0,
+      "unit": "kN",
+      "value": 299.52177033530995
+    },
+    {
+      "kind": "verdict",
+      "name": "verdict",
+      "tolerance_pct": 0.0,
+      "unit": "-",
+      "value": "not adequate"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "problem_id": "GT-003",
+  "method": "shallow_settlement",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "delta_p_psf",
+      "tolerance_pct": 0.5,
+      "unit": "psf",
+      "value": 208.0
+    }
+  ]
+}

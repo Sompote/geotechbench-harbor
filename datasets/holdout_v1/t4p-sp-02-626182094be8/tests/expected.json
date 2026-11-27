@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-SP-02-626182094be8",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "i_avg",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 0.6270049577136191
+    },
+    {
+      "name": "seepage_force",
+      "tolerance_pct": 2.0,
+      "unit": "kN/m3",
+      "value": 6.150918635170603
+    }
+  ]
+}

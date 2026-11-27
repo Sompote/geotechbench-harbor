@@ -1,0 +1,19 @@
+{
+  "problem_id": "ST-206-dd42f0f0eca0",
+  "method": "shallow_settlement",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "s_immediate_mm",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 17.47228644649004
+    },
+    {
+      "name": "s_1yr_mm",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 20.966743735788047
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "problem_id": "RW-406-7e769f62520a",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "fs_sliding",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 1.1358962630494802
+    },
+    {
+      "name": "fs_overturning",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 2.4928269330734247
+    },
+    {
+      "name": "fs_governing",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 1.1358962630494802
+    }
+  ]
+}

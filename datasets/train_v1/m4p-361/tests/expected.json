@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-361",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "shape_factor_without_drain",
+      "tolerance_pct": 2.6,
+      "unit": "dimensionless",
+      "value": 0.28
+    }
+  ]
+}

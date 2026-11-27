@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-447",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "p_p_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 4.18
+    },
+    {
+      "name": "delta_p_pe_kips",
+      "tolerance_pct": 1.0,
+      "unit": "kips",
+      "value": 0.97
+    },
+    {
+      "name": "p_ws_resist_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 1.13
+    }
+  ]
+}

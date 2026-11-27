@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-349",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_casagrande_ft3_per_min_per_ft",
+      "tolerance_pct": 3.34,
+      "unit": "ft3/min/ft",
+      "value": 0.015
+    }
+  ]
+}

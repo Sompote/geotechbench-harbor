@@ -1,0 +1,31 @@
+{
+  "problem_id": "M4P-495",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "v_kips_per_ft",
+      "tolerance_pct": 0.5,
+      "unit": "kips/ft",
+      "value": 36.606
+    },
+    {
+      "name": "p_ee2_kips_per_ft",
+      "tolerance_pct": 0.5,
+      "unit": "kips/ft",
+      "value": 17.59
+    },
+    {
+      "name": "p_hd_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 1.1355
+    },
+    {
+      "name": "p_he_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 2.3825
+    }
+  ]
+}

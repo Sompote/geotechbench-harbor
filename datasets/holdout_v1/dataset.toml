@@ -1,0 +1,1362 @@
+# Dataset manifest for geotechbench/holdout-v1
+# Add tasks using: harbor add <org>/<name>
+# Publish using: harbor publish
+
+[dataset]
+name = "geotechbench/holdout-v1"
+description = "GeoTechBench v0.4.1 public tier, test split: 338 problems from templates and sources kept out of train_v1"
+authors = []
+keywords = []
+
+[[tasks]]
+name = "geotechbench/gt-001"
+digest = "sha256:ecbdb792afa1a0d2ff43a246c819b90ade31f6efa19b72995b87f58b911542bc"
+
+[[tasks]]
+name = "geotechbench/gt-009"
+digest = "sha256:6ad54a382b9f14650d3dd0b34ff778e02a82d8d9e389d6a6821f6b729c9a6e7b"
+
+[[tasks]]
+name = "geotechbench/gt-018"
+digest = "sha256:2f7073bb97a55216942b46f83d16e15490c38a788fddec5e60b8291279580ca9"
+
+[[tasks]]
+name = "geotechbench/gt-020"
+digest = "sha256:9e4569adba12bb91eeb271fad48573e60040b9efd75f4b7074301348f3a13f9d"
+
+[[tasks]]
+name = "geotechbench/gt-021"
+digest = "sha256:e89e73dbe5f6b462ad4b5ea12e6757fa0a727e920bf598500487616c48f03a60"
+
+[[tasks]]
+name = "geotechbench/m4p-011"
+digest = "sha256:83cf42cdd136d8371fc125d0d6a817b833940ea88a82ffd68b2f548c3a9d6a3f"
+
+[[tasks]]
+name = "geotechbench/m4p-012"
+digest = "sha256:be5511e22019dba6d459aa7b44fedd92ce85babc3d7882c374ad718dc4f8181e"
+
+[[tasks]]
+name = "geotechbench/m4p-013"
+digest = "sha256:76f90100f30573113315ac108e914a34c4afe8b82cc2562b10a1c8bea1af1f17"
+
+[[tasks]]
+name = "geotechbench/m4p-014"
+digest = "sha256:f3a2179465105da16612234b8f4a220b7ba0bfa23d55e859b09c122e3ef6515d"
+
+[[tasks]]
+name = "geotechbench/m4p-015"
+digest = "sha256:0457dc3a9c02b9677cd806320166fe6a624895e9007787d9c07e38be69d5a28d"
+
+[[tasks]]
+name = "geotechbench/m4p-016"
+digest = "sha256:e2b8c0349437de365769015979566a1afbafdd2772cf397f0c487529c5e402ed"
+
+[[tasks]]
+name = "geotechbench/m4p-017"
+digest = "sha256:5e07d01995e291373034e1e10f088dc279b1b15ed5e941645a407ac56253b826"
+
+[[tasks]]
+name = "geotechbench/m4p-018"
+digest = "sha256:c4409ad6b0d6d8aef01113f498a0be5b651c1a3e5a48038d6d5a103e6032000e"
+
+[[tasks]]
+name = "geotechbench/m4p-041"
+digest = "sha256:22b15fb80ba647f39ce26081d660746b61dea0636fbd0fc17eee019ff792d5aa"
+
+[[tasks]]
+name = "geotechbench/m4p-042"
+digest = "sha256:92743e508352de17e3e42029f9fba00829ae053fe5e460d06b050583f8c1ecb3"
+
+[[tasks]]
+name = "geotechbench/m4p-091"
+digest = "sha256:d656e227464ef5b806421dea3bab66f68c9ad04d35356dd8025a3b000772b089"
+
+[[tasks]]
+name = "geotechbench/m4p-092"
+digest = "sha256:c99a455e0ab9256250c9ae0a7031b754fe2b56774d5b87ad1a75376ba3eb8bb7"
+
+[[tasks]]
+name = "geotechbench/m4p-093"
+digest = "sha256:f86640856cfac15a54efa8eb2e9c272f266f4941bbd03233e1675026ddb97801"
+
+[[tasks]]
+name = "geotechbench/m4p-171"
+digest = "sha256:c37fe1d2b57239aca282fc8675a33acb32cbb1bb95fa2955c2a8edc1aca3ef6c"
+
+[[tasks]]
+name = "geotechbench/m4p-172"
+digest = "sha256:6913c69a45881c06490e1cde52be2210bde7090a32e93cb71b06f37c23f960a7"
+
+[[tasks]]
+name = "geotechbench/m4p-173"
+digest = "sha256:3b5c9c04c93b0c694e4d1927fb5019b79755bbcdb6f0f44f2245881fbc7c2a5b"
+
+[[tasks]]
+name = "geotechbench/m4p-174"
+digest = "sha256:e9448290d8766d3785ec374c3a057fee21dd5c6b684f4dd904921469d8176531"
+
+[[tasks]]
+name = "geotechbench/m4p-183"
+digest = "sha256:3a0dfdef2932642d9af7a19215509a4ac178e6788cf255484d35cc88d55729a3"
+
+[[tasks]]
+name = "geotechbench/m4p-184"
+digest = "sha256:a981d4d7468ebd1c3cf1f616bf4bbba3ac5c9d3421456c2056c68c44e5f17b3a"
+
+[[tasks]]
+name = "geotechbench/m4p-187"
+digest = "sha256:1752ecaeedc5180820c308f41dd8ac53867b2e0a633fa85eb657980a351ab340"
+
+[[tasks]]
+name = "geotechbench/m4p-188"
+digest = "sha256:63ac6a8544acd50f8b3d03f6be6cba9e9b0f4245724ab0392706a862d085cbe1"
+
+[[tasks]]
+name = "geotechbench/m4p-201"
+digest = "sha256:90eeb734ce7c74d189953bec229b459f35a043791f3d42c006469b535794b874"
+
+[[tasks]]
+name = "geotechbench/m4p-202"
+digest = "sha256:eb185acceec1ac2280ee6d964ecd4d0be71a417598479968aeb588222688188a"
+
+[[tasks]]
+name = "geotechbench/m4p-203"
+digest = "sha256:a06497eefca1c97fdbb5cb8c0fc0b4b56b9b17f5a8f26b3970179a022a22cf92"
+
+[[tasks]]
+name = "geotechbench/m4p-204"
+digest = "sha256:d7699d4fe9e59f6214309daa7dcd337a499363cd3e6285901d87f8ed192e0c6a"
+
+[[tasks]]
+name = "geotechbench/m4p-205"
+digest = "sha256:53a4b7c150a693c228a37441c8a99cda77e00d4f95f134d121a3e93a23bdd906"
+
+[[tasks]]
+name = "geotechbench/m4p-206"
+digest = "sha256:61fbd2a9316e1ab0a2d6771da18904f869d4e66209aae98068e7fced1519d840"
+
+[[tasks]]
+name = "geotechbench/m4p-207"
+digest = "sha256:0e46e9ccd871206b2315cf2a887670c870f8fd679c9a818f94e8a19286ce4873"
+
+[[tasks]]
+name = "geotechbench/m4p-209"
+digest = "sha256:66c48f8daca926f393694a9f2e6804608abc893ae58b21ee38c6fd0faf60f773"
+
+[[tasks]]
+name = "geotechbench/m4p-241"
+digest = "sha256:590549e92a15f64e2e92da03e13a73b4db12e8cb0e489c04d25ca8e20bb9388c"
+
+[[tasks]]
+name = "geotechbench/m4p-242"
+digest = "sha256:8b0983fe94f37e2c0771c43b845567b9be5c05e80bb0a220dc94df44ddea0b8f"
+
+[[tasks]]
+name = "geotechbench/m4p-243"
+digest = "sha256:0b7b506223fda7ebe6720b43923273c22324ddb6bd086d688584a804ab0b74d5"
+
+[[tasks]]
+name = "geotechbench/m4p-244"
+digest = "sha256:0acd7e897472c89cf9347d648823d8698293215fabd48b5dcac3d41dff817f48"
+
+[[tasks]]
+name = "geotechbench/m4p-245"
+digest = "sha256:d1555b9991e58f51c8a08992d8025ce221c2e86c8f52e5db5ed09627e9a488cb"
+
+[[tasks]]
+name = "geotechbench/m4p-246"
+digest = "sha256:8dbf8efca443f4ab41789b607b30d32923c20b446ac85eb621ff67f63760d0aa"
+
+[[tasks]]
+name = "geotechbench/m4p-281"
+digest = "sha256:ff945d147a149139a404c264592d700fc1d3919e2404be4cc979090566bcc68f"
+
+[[tasks]]
+name = "geotechbench/m4p-282"
+digest = "sha256:3f0494246eaa5c15615312a8b3158076a2af629a00e97734cb8782eda1470d3f"
+
+[[tasks]]
+name = "geotechbench/m4p-283"
+digest = "sha256:1ab45c0af660e3994328811f1328cdbd28f2459e4da6f7970f83aac602fa5d57"
+
+[[tasks]]
+name = "geotechbench/m4p-284"
+digest = "sha256:abeaf404a9ae1945c91bd153ede49e4d06cb9562df16e9ac37fd0c7416adda4f"
+
+[[tasks]]
+name = "geotechbench/m4p-285"
+digest = "sha256:9b28518373235c6c93f7b3e23c261383c19a5d48b3a957f4d59aeaf70e178d60"
+
+[[tasks]]
+name = "geotechbench/m4p-286"
+digest = "sha256:7c9e7a866574c17854182e3b0b418788ed82e374cfd87bad8f2e1c08e4581049"
+
+[[tasks]]
+name = "geotechbench/m4p-288"
+digest = "sha256:7570adb78e902d3aeb597a60787b150607237f721c64e34c71441a602a1eeb5c"
+
+[[tasks]]
+name = "geotechbench/m4p-289"
+digest = "sha256:c6a772e4cc948f543dca05c17e23c904836731c97eba6854c2d3c600459aafad"
+
+[[tasks]]
+name = "geotechbench/m4p-311"
+digest = "sha256:9d4c496c656ea56b2d3059d98d6c21984be094fe31d3c05f520d48442fe8ee47"
+
+[[tasks]]
+name = "geotechbench/m4p-312"
+digest = "sha256:921dfc0bc0528d88f2ab3711325d6986f17b5c86bba6f9a3be1f01514a2b7745"
+
+[[tasks]]
+name = "geotechbench/m4p-313"
+digest = "sha256:665c69e893460149ec1fbbe22dacc563f1247d179e72082dc99e6d8b8774887e"
+
+[[tasks]]
+name = "geotechbench/m4p-314"
+digest = "sha256:8c57edd8b41fe9672370113195dd7920fd9091a585fb4bd626d5d54d66bcebbd"
+
+[[tasks]]
+name = "geotechbench/m4p-331"
+digest = "sha256:851fbbee6319e98127b06d5892e3ef2f18c8a3c6548112dd5396499dba915631"
+
+[[tasks]]
+name = "geotechbench/m4p-401"
+digest = "sha256:1fe81f9152ffa04419b83b29ca844b95e73d9184ae139ab3be08bf3b6e5aabc2"
+
+[[tasks]]
+name = "geotechbench/m4p-402"
+digest = "sha256:c90eccff55eef555649f02c278bbfa67c9cd27a2fc7ec6a5f939fae96e2e492b"
+
+[[tasks]]
+name = "geotechbench/m4p-403"
+digest = "sha256:bf7752a5ac088accd5eea3fc3093d736cde5baecd331e990cd9410f475c1af40"
+
+[[tasks]]
+name = "geotechbench/m4p-404"
+digest = "sha256:145edd7493754ac40501fa06171c4fbb69a74c27caa32470702d54af48af7a6b"
+
+[[tasks]]
+name = "geotechbench/m4p-411"
+digest = "sha256:1080b20c53ca1ed4d832fee70ba7ef295a790c338cde8060720901bc1c0e1fee"
+
+[[tasks]]
+name = "geotechbench/m4p-412"
+digest = "sha256:63d95e769dd5060b1d212644d272ad8f23790e95dcb3be4464b9207be8869f20"
+
+[[tasks]]
+name = "geotechbench/m4p-413"
+digest = "sha256:5e6dd63db2f20e6c19e2902710ee863a28b14fc4d3fcd66a92dd0ef1d61bbe3e"
+
+[[tasks]]
+name = "geotechbench/m4p-414"
+digest = "sha256:894d4d5dcf60ac2819e5c29cd9344ff98a058885124be5ec9414ab9921a37463"
+
+[[tasks]]
+name = "geotechbench/m4p-415"
+digest = "sha256:7ea02a59a00f18a5dd217250461c45872e8260cc8a70fe4f3197a1a6f85104c8"
+
+[[tasks]]
+name = "geotechbench/m4p-421"
+digest = "sha256:a93bec29acd2ee98a8ac5fbcc46e097dabea3060eb27bb8414f1b801f7459204"
+
+[[tasks]]
+name = "geotechbench/m4p-422"
+digest = "sha256:0b09b04692b3627258dc638fd50c1c6ac5fcb4cec4a6e6ad41d629300167e2d3"
+
+[[tasks]]
+name = "geotechbench/m4p-423"
+digest = "sha256:23847caba86e98c6cf0b683b5a0b03b24b586c412ddf5fb21d2aeb2d078d2562"
+
+[[tasks]]
+name = "geotechbench/m4p-424"
+digest = "sha256:a51c5aba2180f050aa48d9ce3318dc723b8f413122839082fdedd3437775bd9c"
+
+[[tasks]]
+name = "geotechbench/m4p-461"
+digest = "sha256:2d154676b5173066ebf05f2d6e4470c38dbdacdb9726b948fb3f0334af644489"
+
+[[tasks]]
+name = "geotechbench/m4p-462"
+digest = "sha256:3e20d011f3d1750493c3ad8dca8605edbd5cf10aa0ea5414c8c38f63651053c6"
+
+[[tasks]]
+name = "geotechbench/m4p-463"
+digest = "sha256:54923f5972a8b574fc361d64980a049f565c9cd8c2166936d57342c013a09687"
+
+[[tasks]]
+name = "geotechbench/m4p-464"
+digest = "sha256:28496c2f986e48465f0907819e5c68bb61613a891c4b7a8a859ab6730cdafbaf"
+
+[[tasks]]
+name = "geotechbench/m4p-465"
+digest = "sha256:cab8a7d1d40bf22d38c1dbae186aa3474897045d2e24b4ae6cf5fd01f46edba8"
+
+[[tasks]]
+name = "geotechbench/m4p-471"
+digest = "sha256:d5ffa45ae09cbd3f766699af2cf7a379f1839e78ef550cb76e7fee6ab2c51839"
+
+[[tasks]]
+name = "geotechbench/m4p-472"
+digest = "sha256:f2a3e1083b39f684897fce8d40ad06fba50f2e6d951c1742387fac12702a4250"
+
+[[tasks]]
+name = "geotechbench/m4p-473"
+digest = "sha256:8d511cc92db76e06f38af6e06216574c178951b52c3b00a2cf8efbd46eb7e751"
+
+[[tasks]]
+name = "geotechbench/m4p-474"
+digest = "sha256:a982696db7a48718fa76a3c7398cb3efa587e91b619d3f65fc0e9dcd8210b17f"
+
+[[tasks]]
+name = "geotechbench/m4p-475"
+digest = "sha256:731f2199196d7a536211cd3d5f0f6f9e1c0a6a92248f67346d5da5b79d2beae3"
+
+[[tasks]]
+name = "geotechbench/m4p-476"
+digest = "sha256:d29c722bf0aee4d45188f98f4307b2316fef913e763010b17247e9b15f15612e"
+
+[[tasks]]
+name = "geotechbench/m4p-477"
+digest = "sha256:a96fb4f3dd685557f1dab8040d3aa44d6b8f60ee0fa6d580b4fcf6e858a29f35"
+
+[[tasks]]
+name = "geotechbench/m4p-478"
+digest = "sha256:7cc89fc4cbc73d3ca69a87937a20c90be4a2befae2a59929e455b7540883424d"
+
+[[tasks]]
+name = "geotechbench/m4p-479"
+digest = "sha256:2cfd4e357a289f907345cd7a51bae35ddbab0d1a5e3c7baf3315388d12e5be1b"
+
+[[tasks]]
+name = "geotechbench/m4p-571"
+digest = "sha256:9c3a74a1b462b3640806381dedf54bfc40cee102ede65f271de607f5b8ccf38e"
+
+[[tasks]]
+name = "geotechbench/m4p-572"
+digest = "sha256:8ccb1654159abd913d39f58fa8d2341ae74152077335944774a0961cf02d8dbb"
+
+[[tasks]]
+name = "geotechbench/m4p-573"
+digest = "sha256:222a65261f5b2bb69ef8fc5175635460bb9de3c4a9a39bae57a07f8da07cc785"
+
+[[tasks]]
+name = "geotechbench/m4p-574"
+digest = "sha256:95efdfb980a5c8e68777e4e09516797240e575f9d0bd1c00a09c4e55431a4fd5"
+
+[[tasks]]
+name = "geotechbench/m4p-575"
+digest = "sha256:b7c44744b008854892697f65b39203c905642e419f2dbb783f0ba3bd55d5e1fa"
+
+[[tasks]]
+name = "geotechbench/m4p-576"
+digest = "sha256:4ca38ea04097fdaa7b6ab85e6b764d3f3b6c02451d19ddd241c4a3b549707b2b"
+
+[[tasks]]
+name = "geotechbench/m4p-577"
+digest = "sha256:098c80033df62af880f94444cd037af9c38dfe5528c8a983ec9f9b7fee698fac"
+
+[[tasks]]
+name = "geotechbench/m4p-578"
+digest = "sha256:1529e9bb5fbd144fbc058ba1b7d34c77b4c034afa2b99ed3c4f01a064cc18e33"
+
+[[tasks]]
+name = "geotechbench/m4p-579"
+digest = "sha256:224e7ce514b44e58154db5630119497280203475e686fe6040bc3156db9a2dc4"
+
+[[tasks]]
+name = "geotechbench/m4p-614"
+digest = "sha256:d2e9f762bc0bab320f685503110dd8032a0a3aa0497935466e890acab1c12d78"
+
+[[tasks]]
+name = "geotechbench/m4p-618"
+digest = "sha256:2b6e733a1164c9036f5193e7f8ffee694d9368bb115ac2dd7e312c1582d44bdf"
+
+[[tasks]]
+name = "geotechbench/m4p-620"
+digest = "sha256:4ba15c01722bcb3a1bfff995aae01ac48999fce86978ff198520f96be26af3b3"
+
+[[tasks]]
+name = "geotechbench/m4p-621"
+digest = "sha256:c58079df6df01919d33389a54f1beb74f233728125cf757bbb4d1e3e7d617cbf"
+
+[[tasks]]
+name = "geotechbench/m4p-623"
+digest = "sha256:ee0258c673d73c70598b6895966ed2d7b7f4724794614072da5f5bd1c30d8723"
+
+[[tasks]]
+name = "geotechbench/m4p-627"
+digest = "sha256:6d0ad537f5df004a22882aaf006ef1190adc978685b5436872830b58d9bbd95b"
+
+[[tasks]]
+name = "geotechbench/pg-708-0d951d7211a4"
+digest = "sha256:63118f56a7a880f3bd922e6b714071790ba6ec7675301aa7f62b6b8f0354806e"
+
+[[tasks]]
+name = "geotechbench/pg-708-37d7bbe9578d"
+digest = "sha256:06b50a8206d8be28465fbc9f60e5b505e26945684f01315f07c50f37564d9874"
+
+[[tasks]]
+name = "geotechbench/pg-708-4849dcbd4583"
+digest = "sha256:31336744aeac50918f14ad266d3148b6ac27eb29b34ba4513acea98580bc2092"
+
+[[tasks]]
+name = "geotechbench/pg-708-5c819ef13cc1"
+digest = "sha256:5be9c7dc0fa5233c492c415c7096514985dcf35debf529d00a41df38976bb695"
+
+[[tasks]]
+name = "geotechbench/pg-708-5e032d459e54"
+digest = "sha256:8095120d8517de1a9b52fc8bf713e4ef22e8a0c5c940c6c33cdc5910bae0dc1f"
+
+[[tasks]]
+name = "geotechbench/pg-708-9399271502df"
+digest = "sha256:bbff36d9c890c8da01b4a8773443d375fac95f2900c1fd84a7c1a5c4d3916d50"
+
+[[tasks]]
+name = "geotechbench/pg-708-97d7283c5e48"
+digest = "sha256:56526eb88bbfa81ff529be0ae01ab49429bcb48b7143333a81d94d71580c7149"
+
+[[tasks]]
+name = "geotechbench/pg-708-9eed2c3d73b8"
+digest = "sha256:2935a9be45be5735f4af5df626d426f1d77cbbfe1b8cb1312233b044350f7a2a"
+
+[[tasks]]
+name = "geotechbench/pg-708-dc4898502f19"
+digest = "sha256:0620e7df7e38223984275b4b0b302e6a65cfea76a74e6228646ab509c6baca34"
+
+[[tasks]]
+name = "geotechbench/rw-406-0d20395ae43e"
+digest = "sha256:18963b4e16198ff8febf5bcd927c68e60b38bf7f7d41d371fdbe71c6a9eeb4f7"
+
+[[tasks]]
+name = "geotechbench/rw-406-6901f752a984"
+digest = "sha256:43446c3c3ec00993f42d80ca7e6e74af3a36ba84c9e5035fe110a4080d828cf2"
+
+[[tasks]]
+name = "geotechbench/rw-406-7e769f62520a"
+digest = "sha256:d713ed7dc5973fff8b62a79f0cb3641afe9a755880cd3b907a4045ac8aef58d0"
+
+[[tasks]]
+name = "geotechbench/rw-406-84ddde3f3c1b"
+digest = "sha256:11068c257b9b18f2e7ed5e5c2335a9b4e8d4283c516bf67fc5cb2bd8ef2bb134"
+
+[[tasks]]
+name = "geotechbench/rw-406-aeb22264dd12"
+digest = "sha256:04457883cf2e231ee692776a6582bd3a24514f22938094b44c5df6325e989b29"
+
+[[tasks]]
+name = "geotechbench/rw-406-bbb43e4f5f2f"
+digest = "sha256:4a64d983e1b8073f3c2548cff4e9022427c0cc52264477f3971ba6f637e38a8a"
+
+[[tasks]]
+name = "geotechbench/rw-406-c8e53d4e40f4"
+digest = "sha256:1c65468b49f9011b6861258fe4677394a49f8645d77a2806e59f914ea430e733"
+
+[[tasks]]
+name = "geotechbench/rw-406-f0a08b934478"
+digest = "sha256:1b24a3fe6724e10dea0ea255d13bfe02ad1241775c3fdf0376c569385aad8b42"
+
+[[tasks]]
+name = "geotechbench/rw-406-f51534b50531"
+digest = "sha256:87d26f53cdd80b9ee2d64d35c570d7ec2311877e26daf82ce805361381a84ad3"
+
+[[tasks]]
+name = "geotechbench/rw-407-4381975d3469"
+digest = "sha256:750173ed0bf3ab35b69c4fd4094c97848e0baec4f2fddf83b1bfb7a827490332"
+
+[[tasks]]
+name = "geotechbench/rw-407-4550e9880a40"
+digest = "sha256:b73c200df4065f67bd6e60b51d61533e31240e6fe0825b986356b62109d9bc90"
+
+[[tasks]]
+name = "geotechbench/rw-407-49a409b2c97d"
+digest = "sha256:1ffe47179396ed60948482d4276807b6ca8fc406f272bb46fc47c5fa20230a11"
+
+[[tasks]]
+name = "geotechbench/rw-407-49f948f10344"
+digest = "sha256:83bc95befd3c4165f046752f4afddc5f28798e31f21024ac6382103931c24982"
+
+[[tasks]]
+name = "geotechbench/rw-407-546695b8357a"
+digest = "sha256:6a15cd228997e89eee7c22bb243d7c83440936bb8d0a8b2ce275f0c8e1e28e0c"
+
+[[tasks]]
+name = "geotechbench/rw-407-58eb0910e689"
+digest = "sha256:04f5402488992b23e8f7d330d8e3952d6a5649574a4198a1c4a9687873d5e58f"
+
+[[tasks]]
+name = "geotechbench/rw-407-6ac4b47ddd4b"
+digest = "sha256:b5b0daf6b0825c381cf60a2b40dc1170ae50280407ed4083c3120ed571f63848"
+
+[[tasks]]
+name = "geotechbench/rw-407-83b2cef24894"
+digest = "sha256:461c08033b765a881f5d396c44c2e1813bb0478b6d13c714bdc4e49087663a5d"
+
+[[tasks]]
+name = "geotechbench/rw-407-b414ef47b402"
+digest = "sha256:e0e6f3f05a42e6bd85f24f939012ebeeab2b299375177ddbe9a6738e5508e5bb"
+
+[[tasks]]
+name = "geotechbench/sb-106-08d9a286f5ff"
+digest = "sha256:ffedd1546c42ee01d9e3d0b456861c3b303f0e6754470df988cd0a870cd34da3"
+
+[[tasks]]
+name = "geotechbench/sb-106-0a2fca2f6176"
+digest = "sha256:dcf4477be32434520b832188332224dc2ea476ab0801f9d42e7e2b9767555825"
+
+[[tasks]]
+name = "geotechbench/sb-106-1fa7dd54a5d8"
+digest = "sha256:619674398e1d3e0ca3a396b1f2524cdc8bd09625b77c14fd43f9108cb75ad3f3"
+
+[[tasks]]
+name = "geotechbench/sb-106-5a90634ce635"
+digest = "sha256:04e7a6991354b17a180b232bb1016d53b1dabf5a4b8c9475a45ee723256ab6cf"
+
+[[tasks]]
+name = "geotechbench/sb-106-792e9a0c1d7e"
+digest = "sha256:af4c748035a5aa23394d84fe2d7190f49a5f7e1944f7feeb945ff3c664d05dd4"
+
+[[tasks]]
+name = "geotechbench/sb-106-7b9940f5d3bd"
+digest = "sha256:06c51d9c633fdbef1a29ba8a77480b3bf3fbeb49e9295b72dbf84bf17a35dd04"
+
+[[tasks]]
+name = "geotechbench/sb-106-7f0a2833b8de"
+digest = "sha256:1d3096ad40f49ba094d3bbdacb2253bde4ba971e148abb5a462ef0fe9199b49e"
+
+[[tasks]]
+name = "geotechbench/sb-106-8ed49645bd28"
+digest = "sha256:22ab889b064a2007215088c6eb7120fc9875f988f4650ea1317047f5f6057f00"
+
+[[tasks]]
+name = "geotechbench/sb-106-d2a697776185"
+digest = "sha256:59d1fdcb9582a41b730e3d09c77b66967d129fd6d1ba6e629ffde35cb514646b"
+
+[[tasks]]
+name = "geotechbench/sb-107-327ba5205ddd"
+digest = "sha256:85a59d882d77a4a5fbf02fadd68ddcbc2590f71fedad7ee6b1286f87cb3cac80"
+
+[[tasks]]
+name = "geotechbench/sb-107-3cefe95a4045"
+digest = "sha256:438bd75ebe2a7e57d1e259cde85e55d5ca9f87bb878f2afc0df33a1f89336923"
+
+[[tasks]]
+name = "geotechbench/sb-107-5814ea2a8309"
+digest = "sha256:e51eeaa32c8e87dd7f9c1e40970b8796583b17ddcb6f05ac711ba03caed658b0"
+
+[[tasks]]
+name = "geotechbench/sb-107-6090deba0200"
+digest = "sha256:c350250e12de8ffeda898483620330b575ad52905381280ef8a3cccbcc6db352"
+
+[[tasks]]
+name = "geotechbench/sb-107-6f01ba03f6b7"
+digest = "sha256:f8e8328f7d5a6ee190baf9fae34ef3a4f303c0cb60e8a994f5f77c4bc61b6618"
+
+[[tasks]]
+name = "geotechbench/sb-107-787a1a00f086"
+digest = "sha256:fbabfa739e9d96229bfa202bcb672080cb07693efc91bd29e85d96b61bd77a8e"
+
+[[tasks]]
+name = "geotechbench/sb-107-925a190bae0a"
+digest = "sha256:05941b9832eca1e67286688d465f25c3f90b1de7c2e07f8bf7e3aac76bbf8f65"
+
+[[tasks]]
+name = "geotechbench/sb-107-d466386e35ad"
+digest = "sha256:2bfd1a1fca3d07f013e3b01229fb2285e9d45db4d0e43ae5cd9599c81d492437"
+
+[[tasks]]
+name = "geotechbench/sb-107-e76670e3760f"
+digest = "sha256:d72e6c3d06ae8775587523b7df3019a4bc0a7c475a43fefd67cc5c33e0907b2a"
+
+[[tasks]]
+name = "geotechbench/sl-507-0469f65919d0"
+digest = "sha256:c95bb68b53db5432e1790b9edeb7ed932b080edd2e4af056fd2b48f35c5ce125"
+
+[[tasks]]
+name = "geotechbench/sl-507-509f6e1118ed"
+digest = "sha256:aea123efd553cf88a8614ea6279e978c229752fd41d8a2f1338b97294aaefa5f"
+
+[[tasks]]
+name = "geotechbench/sl-507-5b72e562c639"
+digest = "sha256:c34be62f7d8f8a49ca3e7ca60c686f6a04dc55c2205094e65e24178c19a6905f"
+
+[[tasks]]
+name = "geotechbench/sl-507-6a4e425ae462"
+digest = "sha256:c947013546cc0f15ab9cc64889319ad29d43b3ba704edf55d20e7ad78a28653e"
+
+[[tasks]]
+name = "geotechbench/sl-507-7d2c3fb35e02"
+digest = "sha256:2b0b84d1e589bf68f16439e9ffb1cfc62aa24d021f1a7702ab1bbc9e7edbb8cd"
+
+[[tasks]]
+name = "geotechbench/sl-507-90e5bd4d09af"
+digest = "sha256:49cc29c193ac41b1c18b293e5af07ded3a500e88c98d843bf7c747b8d4157188"
+
+[[tasks]]
+name = "geotechbench/sl-507-d2e7deb4a59e"
+digest = "sha256:cdf53ec3abb461de7b17b95bb4cc0a398eb240c589718a0a6c7b5426629ba290"
+
+[[tasks]]
+name = "geotechbench/sl-507-e3629334b950"
+digest = "sha256:17060e301142db2e0e1153371226cd0ae60400592a2cf6879dc349bf3e5680f3"
+
+[[tasks]]
+name = "geotechbench/sl-507-e5955ed30dce"
+digest = "sha256:93ff9f4e8ecc80da4a45516a3532ecf950c127940916cbdd3fca07455a94a01e"
+
+[[tasks]]
+name = "geotechbench/sl-508-0303f58329dd"
+digest = "sha256:2abb0ba330af095d9fc83326bf80647046c3ab2243c365e0ecd488c439c96190"
+
+[[tasks]]
+name = "geotechbench/sl-508-18a079c1e311"
+digest = "sha256:bda4d6302ebdab4c09e34573c975d315ce08716c788a71cb0932ae0f5c53eebc"
+
+[[tasks]]
+name = "geotechbench/sl-508-4dd81de4bfbd"
+digest = "sha256:52a6a8f0abe6ca0f5ef56c02e6dce59bfcd34ebc309b0d7883e4b9a880fd3e6b"
+
+[[tasks]]
+name = "geotechbench/sl-508-5e4e3f2fc954"
+digest = "sha256:6d190bff9c60893829a45dcb7e1679a026432dbf54bdbaed311909901f2de2b8"
+
+[[tasks]]
+name = "geotechbench/sl-508-82258fc8a6fb"
+digest = "sha256:e4b1a41f5f297b21b5a8a2c03f2cce96128226142647617c002607c6ed8ede3e"
+
+[[tasks]]
+name = "geotechbench/sl-508-8553ec997405"
+digest = "sha256:7cc35e19f3f7535b5327719e27e48c7ecdd40784ab3749bc8ec79b1cea450cc6"
+
+[[tasks]]
+name = "geotechbench/sl-508-92fc00b0987a"
+digest = "sha256:2e56d2892fb646aa90f56f20de640071f3bc99ed10d7e4faf5998daa98651bde"
+
+[[tasks]]
+name = "geotechbench/sl-508-93b2996fee83"
+digest = "sha256:c29bb3e6638af703096edd6e1b39d88196cfbeb42208e01794a2d52557b18c24"
+
+[[tasks]]
+name = "geotechbench/sl-508-bfc345453266"
+digest = "sha256:ecf206903b7035d3d9f4530c158950c2d55192db119c4b936b0afb66c940ad23"
+
+[[tasks]]
+name = "geotechbench/sp-608-2719f994f20a"
+digest = "sha256:4d47ac04ceb9103a6cd67805c56af8cfb3cf3b1cc96a0d1a7813da0105b95f45"
+
+[[tasks]]
+name = "geotechbench/sp-608-27f87de11fba"
+digest = "sha256:405c4e91c238a6a0a4401bd09a86c1a063a0bfcfa95e32d901cd42da4ff48b90"
+
+[[tasks]]
+name = "geotechbench/sp-608-3c401e1687d7"
+digest = "sha256:f19012f82d31b5fbd71217900899a670b4585a24775d838b33e42561e021c430"
+
+[[tasks]]
+name = "geotechbench/sp-608-4a8fd178a2f6"
+digest = "sha256:68045ccea3289f359eeee1fa130cc3f8528d193d08709d9b3502183616efaf09"
+
+[[tasks]]
+name = "geotechbench/sp-608-651df89e5232"
+digest = "sha256:aac85d732fcf0daaebbab547c8e17fae9397585e02a554d4ebe6c82094731583"
+
+[[tasks]]
+name = "geotechbench/sp-608-867cc9c5010b"
+digest = "sha256:e97c5382cff7a74fe1e6776789b9e615af0a714e6799912c00e7bbe0bbf85f2c"
+
+[[tasks]]
+name = "geotechbench/sp-608-8a7c3d15eec3"
+digest = "sha256:dac5e470219f12c2b83ff5cc354aa3815a4158d0ffd9b38c8ab5e58d83121645"
+
+[[tasks]]
+name = "geotechbench/sp-608-e1dc40ffadce"
+digest = "sha256:3d2b2ef208555a05fc5e854f7f0d37f9eed858c586c6ca1247fe85e99c50e264"
+
+[[tasks]]
+name = "geotechbench/sp-608-fc7105a2c2d2"
+digest = "sha256:aed6fb7f7f9b870f1638b2df1a23442f1bbbf81eea2f587fa9e25df83a64fb24"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-01-02418a05284c"
+digest = "sha256:307d6829c362134a4e20cc662e3391832f91a96886baff2db57d5f8169542914"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-01-0df48f3e61a2"
+digest = "sha256:9232747bbb0497765915db6d8b891785a1d4668458c3dfeb9201d521189935fc"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-01-1f65d33b567c"
+digest = "sha256:7a9e8a0cece3e87c071962f49bfb00e67b58f03f8066c6658837c674b3104467"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-01-5720cfc11a09"
+digest = "sha256:56dc3637259607de2ac55f9c5f2d7191ad7a62f2d2915e0a77c6b265b16f1b88"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-01-909a8e0ac944"
+digest = "sha256:b73d03a25ee76620860d99cd482e14fcc7e83d58a62d790c8b9cb84af4e38707"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-01-be4b2ee3d60e"
+digest = "sha256:59432cec09a34cc66b3252e62495fc8b1a26f175625ed398504195f0331f28a6"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-01-c0e1455c0143"
+digest = "sha256:c281085417bfa7e2b1002a0299aa7fc9bacaa3942dd94c4dd417ea8e08f6d11c"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-01-cc8912055974"
+digest = "sha256:70a45359b26daf1810641ae14e8a20c4b114ebc5841284f2dedce7af736c2fa5"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-01-d2cde12a15a1"
+digest = "sha256:ca01faf12a14d675b4e624437b82a01f094ce205e192761fe9fcae8d15f58aa5"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-02-17693b0d015c"
+digest = "sha256:0dcd84a514be0d092380b9598c3ffcbe4b160bcfcefe2ac0eed3a33d14c18b59"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-02-1d057deb8fc4"
+digest = "sha256:fa5c568f509e4434507a32252629f2c630cf1ce2bd5ba11f38cf7bbf7165fe93"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-02-644b9c70bc6f"
+digest = "sha256:3fefc18de2106581e83e43ed0d27a74a7df42600e88ab7a2f05f9e76e488f94d"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-02-9a5646f5ba00"
+digest = "sha256:74c7cfe117c36923d02cf161e7d3b83b826e9d5151578b33545ac874779ed46b"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-02-9d6fa6ed9be2"
+digest = "sha256:672989a5a589bd1c4a8f2942f0d85cb037a2e341bcca00390cfa528beb0d93b4"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-02-aa63c5bf68cd"
+digest = "sha256:c4285c3bf91d119d65f9b673ce0c6ba4c03d4ba781812775388b9b3db81cbd26"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-02-ce310d99e6ea"
+digest = "sha256:b10c98785479bd23f3b13ecbf13a46a57f77d9a8903b5475ef59c63d13e00e0b"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-02-e6eb29d05f89"
+digest = "sha256:d41dd85117be9fac81395dda995254f8a94ecda53e436091d9c72d22d9e941ad"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-02-fcee86dec881"
+digest = "sha256:553ab2681fb01db867f6bcdf269e104c4ffce6bf4e68072a69a658b364a88894"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-03-383320765260"
+digest = "sha256:8377721927420cea3937931219968339a5d2e26cadeea79e5495f34bc622106f"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-03-5cada111ac63"
+digest = "sha256:05b88c910cc0c84a68ebcf883d57b6890ab354a34f106d56d2456a8f00c6cd89"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-03-791c3e7a84c2"
+digest = "sha256:207c9c8520257a7c6536756c4a148e4e8d9ab39a84df8c21ff2d9110bd22c3e0"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-03-9d3ccb07a6cc"
+digest = "sha256:b0d7a7adf0a6d9f814f4e1f28e7efeac49dafff236665e568216bbbc8c57e9c2"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-03-c03549a595e1"
+digest = "sha256:d94fc8052eb12bab5ad1f6231c27901db0e665cc23a0e95651fd78b8b0f0a9fc"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-03-c32eb17702d3"
+digest = "sha256:345265d29b10f009d8a12a1c89f8f08708f68afd73682724cc437fbe24c891b1"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-03-ca1e756daa2a"
+digest = "sha256:df6ace9273ae6fc71bf85a60a85a54a43614751b19ac5e6c32c27372c1acfd5e"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-03-e1412a90ce58"
+digest = "sha256:111de768ff2358fff2b19909c6ef853441aec6758fe5fadc5ee8206c40abdcba"
+
+[[tasks]]
+name = "geotechbench/t4p-pg-03-ec416a608091"
+digest = "sha256:412333bf76850d4adfdf91e275ac41ff7740d8bb161ec1625ba5a9a62453e31a"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-01-3a7aa9f4910a"
+digest = "sha256:2fc657e88ba3246b9303380786f45bfbd4f4b69df65060d586897a93955300e5"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-01-6659d44c4adf"
+digest = "sha256:d9db0c37406eedee812c036b307204ed328b71da68bfab2d10c52c30e58804c5"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-01-9f6687ef3ef6"
+digest = "sha256:ccdfc1a2a25f907f5f149828fa4d7d9b48204810c76b3a81c40e1dd68bc44fb0"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-01-a231c04daf6f"
+digest = "sha256:2f163883c78637c33d09bb60be2f12058ec0fc44c2f56e86a5525ab5274de1fd"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-01-a4d65f3aec08"
+digest = "sha256:1d89369baffa75033c6efadbd5db66809f3703598cf3cb0218a6f0996d7fcfc3"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-01-b78ed5ad73be"
+digest = "sha256:7d4f0f1ccdeeef872210b83cae4a928759aa63e4f2220f212866d073563d7fdd"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-01-d55765c4beee"
+digest = "sha256:feb12dd4d7e5bcdb3f6981259e3b3f4f8da60e844a8757939eb3d3c51da175fc"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-01-e023ef3150cf"
+digest = "sha256:784694c06947319b883da034230adc3955c15de7b405785e7c7107a8c282fb81"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-01-eb1e4634c3d1"
+digest = "sha256:13c81e96ec1a6b4d94f142b49168b9b527658ca3dd311604878e43060ab3f471"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-03-1023f9a729ce"
+digest = "sha256:5e78a7ac1aa855d04baf3ef8bc6d6810a7bf70ddc24d7284dfe4cda3040bf217"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-03-234d1212a468"
+digest = "sha256:380089c7430dc99beefe2352eb8fb7bfcbf4be24e0f39f0eb561713ebe6f4363"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-03-29811240b8d0"
+digest = "sha256:be5d75f9ee58a2b0e159e41d995fc4f8d2ad21e3c9c7e0bfa4f7aeadbba7e7eb"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-03-3aa12edde027"
+digest = "sha256:4b76428cc9806ce06cee52bab4055772545de18771a5c931c4a2a3ec4275898d"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-03-4c08663d46ab"
+digest = "sha256:305b7086c0215dfb905fa3dbe1a82eb58a2def92c95e5404cca743ed5b42559e"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-03-7fb3321c9559"
+digest = "sha256:5c5975fa4ad1c84a6aa081e6970864b8c63d01a224311df5cfc86390f988962c"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-03-a3a08e566fce"
+digest = "sha256:20c9feeeb44db7ba4cd6eb1c95a38c36df0acad0057e5250bcda25a0a8f49dab"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-03-b17188e6e061"
+digest = "sha256:5108ab5c3fd704079d94a998e66d98c494276b1fb20db15b4c587884c8b5c43c"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-03-d5ef9e160fc2"
+digest = "sha256:602a8ba96835a3fc87f4b9d7bdc2112a909c7922c410dad7642e6612cabe31ca"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-06-21ce05f2d5a6"
+digest = "sha256:e2e506dc4579a5211ae0faeeaa42dbb49ab900655b377610827e0e4e0c3cd906"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-06-29f3dc4585ce"
+digest = "sha256:8de4ca217a098306121f9d95d7377029fbb2b2250fbaa754977dec171db17577"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-06-2bb84dd09cb9"
+digest = "sha256:ebf244f34c17a4667fab5922987cd3540a9e99a0c35b73382eeaa333eb8b95aa"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-06-47e494b28456"
+digest = "sha256:ea4a877546b92ade6f92c8642872ac52e8c936a2d49d00fb8e2b2fda882dd5e8"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-06-51b429e36ed7"
+digest = "sha256:e9dd9589cc89a0fa52c6d31ae04946419494e5cc9c49d5b66dfed616e0539540"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-06-6fb8afc2db9c"
+digest = "sha256:45687c06d9a13a3a365fbe3b04e4d83b5d327de10d8d107983cf17a3369a2200"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-06-868de2f7f2d4"
+digest = "sha256:e757f0ca2a27952bc4214af6b99febf40977f9f23ba172fc2c77ca6edd73adbb"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-06-df732e78f135"
+digest = "sha256:9d8c7de942f535b5f808662a784d5c0cc93232b38a3673ad41fd99a77e9786f8"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-06-e697532393b9"
+digest = "sha256:fbcb395a991071fb2d1b5fbd54fc6f7083112162b3a83a6a974ed79b2fa60056"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-08-4f11c63d63ff"
+digest = "sha256:13d4aa9b24ba42cc14d5980e94bd17c8cd0e7298fc58a8342c6b6ecad5e87ace"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-08-5061291bf915"
+digest = "sha256:fb7164a66d7c0cd4df6fed65e963e1bafabf54d7bba8f9a7fff950a93c627e97"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-08-789849f6d724"
+digest = "sha256:a515362a2cfce8a50f7996bb22b0dd749cfa142c66a3d99857af81abbcdc6038"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-08-7afeff9de804"
+digest = "sha256:5cde078c4007cd6311bd336bad898111dfb4a2f94733f0663fcbc08cfd128959"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-08-96fb7c0247c0"
+digest = "sha256:571178b4fb32076b44aff444ff0ad24c0c5f132991f79f0c91fb2b1077e324c3"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-08-a2e9fe6acbaa"
+digest = "sha256:36309bc858e87e70403a963d3c4d1336acc6325828349d215c2dbcc56498c416"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-08-a58266bfbece"
+digest = "sha256:9327e2a563f96b6e3a65715ad247588df0be10839aa6a7514ff092761a894f00"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-08-e701a31c4b4e"
+digest = "sha256:ed0c59b3ba1c57cb7bab331262f4366266236df675f75ef4fed7a7f920d5add6"
+
+[[tasks]]
+name = "geotechbench/t4p-pl-08-eb791e5d32b8"
+digest = "sha256:b068f4596c72b3b2663daa849e2be2ad6ca50fd2c07ac2188c66c76954870a70"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-02-359682551b9a"
+digest = "sha256:0483a2378344038937d186e86652585df6fca6698e19b97251dc002f17e491d3"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-02-4676a9eb3239"
+digest = "sha256:4c9810fc80e01a4349590c27052e55601feee9946052227d2a9ccbb9c838d57e"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-02-70ea36df2091"
+digest = "sha256:039ef7a0565a16964f0ea7254be67d8ff4562d7856d4a83adbaecc7efa592606"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-02-9e976c0b63b0"
+digest = "sha256:74ca6653c42c6024294e971c244794b656fa3b3ce3b1e628455a5f867c723cad"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-02-abd63f2ca051"
+digest = "sha256:f7a24550b8270fee19869000812253b57611cbd5efb5f95fdd242e4cb82d3757"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-02-b8e01c4329d3"
+digest = "sha256:99e615ad20d026cb3049bf5fcf24737a529c59c69fab21a2fabfccfaf7bdaf92"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-02-cd3505d1827d"
+digest = "sha256:b1816701a1ba8a652ee61417ec889759441a0d94e5cf5297ce3d1cc6f8e2ff28"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-02-ceb49660edc8"
+digest = "sha256:fa9329a110d612fbee29c275ab882a462626ce53a2bdc3d7d8ed13f10f1c15c4"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-02-dbd90b2d3912"
+digest = "sha256:b006d724970290c1dbfc0d523d575ceb0a7bb1187e10f9f2364ceaf6570a4d08"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-05-161f815c6bae"
+digest = "sha256:7e44f796d3807662961656da3565ab7cc35836ed2816b3e26cd4d328cf79b5db"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-05-985b85be529b"
+digest = "sha256:479a6db6f331cb93b82a0edb8d079c58fe198a20ae63268d0085482c6c2c0642"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-05-a925ea4cf856"
+digest = "sha256:e743393eaba0f66b574bbf46b5c2ad8343e4c2f6637b96d0d72561d4217c982b"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-05-b253dad5797c"
+digest = "sha256:4cd36162b65b406943281c86f4365766da2b61b30c33e6b213113069743cce0a"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-05-b9d289ab41b4"
+digest = "sha256:454c7c138b0839c6839263150af1c093200549c0e0e77169b4bddcc40482ca76"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-05-d4bd40adaf0f"
+digest = "sha256:a13b15f78205d98368d8b90762635db59728c158624a598f6ca827bd2c34b7fa"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-05-e2555d1bd6cd"
+digest = "sha256:ba8a70e6b4a851657af43f98f28a02c2f1109b12c3952803e41b87f6507b3650"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-05-f5daba359240"
+digest = "sha256:bb0b579b987468e19c01e6a69478075946385bdfe2514d28e22fc5bbd9b0a222"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-05-fefa0b84de4f"
+digest = "sha256:d2112ebdd0b7fd2f0398ad943197fb6b130299e2717875f6bd8dc65f34427108"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-06-21d409a6cefb"
+digest = "sha256:d749ef050db665491cd76c14c181cf3f9e70f572094ab1ee9ff97632dde7b6f1"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-06-330b6d241dc0"
+digest = "sha256:f84b1374475940b3d150c181b116e5fc4bd9ca86c5cc4a4887a621a70d5498f2"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-06-3dbae2f54ce0"
+digest = "sha256:cb419ad378b60d381b0a81caa4b2474b90910408fe5d29df7f301cd5eedcc8cf"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-06-44c6b68a5e16"
+digest = "sha256:b93261591da04f48b4264bb29038fe285ec36048931e96c550aaadc7c5cd18ac"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-06-6124daa199b0"
+digest = "sha256:99a6c96689816087a8242b20c5094b16395fcad894bb42f985f64146d0d4f590"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-06-997a27946bd5"
+digest = "sha256:f9b13941311b1a20f10029faf9e57a6c1856020a79c1f7665567988d11334d42"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-06-9db0254a9328"
+digest = "sha256:e52eb182c8840b35c7f064958fd8c46e782363a623da97dcc63653e70da040b6"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-06-b7ffc75d7067"
+digest = "sha256:94b83767ff23d094f348ecd3eab8958ef02ab891330cc081607a86e7217889b1"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-06-d2753bd77367"
+digest = "sha256:2cbe749bc948e9190867a81fe62842f9dfda78894de47b266b728fa4cc6198a8"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-07-043db62ee7da"
+digest = "sha256:2a9e8cbc42f03a907aa64b3d24c59600c116e5d2fe94a939750f740a3913693a"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-07-0eb4d124e100"
+digest = "sha256:bbf9017700aadefb891348370af5178bf8bfc47e888ebbc635ca7e808c92c1e5"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-07-1eedc1afc432"
+digest = "sha256:a32529035f0ccacdc3cc2c74229e0db1ee78c9a264e92217c89ee6cd8727aae5"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-07-863574104bde"
+digest = "sha256:aa2c2aa195007618af63724d7190085bee3fde6a49191f38395a259f000ef278"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-07-9dc36d4c6074"
+digest = "sha256:d5459de62e476ff1d1f62bc3f898ee5d3ef45bbb1ad58351cdafb037488d6d57"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-07-a072d22b3167"
+digest = "sha256:df184238016da80dee3fe523be1e83c76334ff08b434758eb84c6f6daf54a7fc"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-07-e8d6afd33be1"
+digest = "sha256:0e740bb5fb1dbf9209a836eb7226275cf651660c61b678ec4fcbb8b727d6e8e4"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-07-ee01daca2444"
+digest = "sha256:14c9839d92feafff02b26ff0e97a8d3011d5a9fbf5425abad5311e1777874b64"
+
+[[tasks]]
+name = "geotechbench/t4p-rw-07-fef0b5c382b6"
+digest = "sha256:f173d2e3cdaff5660bde60e068c185e39076d83f1810bf3b762da9081db38496"
+
+[[tasks]]
+name = "geotechbench/t4p-sb-04-07831c16aa4e"
+digest = "sha256:f06d0100eec1af2b3e5fec303dec682268960db2353309a24a1c5128c3c3f131"
+
+[[tasks]]
+name = "geotechbench/t4p-sb-04-4fe99e1c0836"
+digest = "sha256:8912f5f15dfccecdfbe68b8a485a299a033821fd96de73ac841cfdd37826f64a"
+
+[[tasks]]
+name = "geotechbench/t4p-sb-04-577382bc3ac2"
+digest = "sha256:d364b4ad51580096ad79aca18fbe253f26c29cc2b190683f65526209f3d9007d"
+
+[[tasks]]
+name = "geotechbench/t4p-sb-04-838c3bc81099"
+digest = "sha256:32d33e06e501f832ae78a91721408d0912c63a8191a3fb84f05bf29e7a854cec"
+
+[[tasks]]
+name = "geotechbench/t4p-sb-04-a853f027bfaf"
+digest = "sha256:1998f3d9a7464f336ee29d61a419fe04edc18ea376ed801f9dffda78d045c86a"
+
+[[tasks]]
+name = "geotechbench/t4p-sb-04-b99c370220f7"
+digest = "sha256:4a269a1dd362eca6fbe14cd0c72f0c0b471b8a84c408b23ba591b221b697611c"
+
+[[tasks]]
+name = "geotechbench/t4p-sb-04-cb6c314911db"
+digest = "sha256:1436ccfcada7e08b8c2bc3e40633987898e5c9be48ac6d380d9b3cca535c2048"
+
+[[tasks]]
+name = "geotechbench/t4p-sb-04-e758a38c771e"
+digest = "sha256:cbc26a47574f80e191fa3b13ffd9eb040af0b8c2312ee827c29203c2a1216a86"
+
+[[tasks]]
+name = "geotechbench/t4p-sb-04-edd107bb9856"
+digest = "sha256:c8ee1729b620eec8bc037525f14704ec835f1c947272261d6df8fa543c5e2415"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-02-25859a68a2ad"
+digest = "sha256:ed02357067635158c318676740b76126e546d8083f8ba8d520e9e44d34d00199"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-02-2ce231cb1aa1"
+digest = "sha256:3cb550c332ccaf730198c267ec215a1bcb01962d9d76cc01d46ee405a553bf96"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-02-3c565ae90c41"
+digest = "sha256:1903dd3caa9862eae27d9f4bbaffb01f8fb67523b6f64d25f074fba9aa9af033"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-02-4bb9da061b8b"
+digest = "sha256:803c924308c5b71b37f84e7e8146289de3e9bb94d3805e0b027d63e64fb7cf2e"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-02-5442534b852e"
+digest = "sha256:9d3835880a9cce3433d34b721a3e92056bc4042c88944a9d38067cf5e071a1fb"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-02-626182094be8"
+digest = "sha256:93c595a319997d71f572eb17fe0797834352d3f30e18449fa6a92a6fa560f66d"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-02-6658d4e8a0a6"
+digest = "sha256:2baa0ec2a2c9eed23b94699eb1cb574308a5c82392c97c847d4e284bdc3173eb"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-02-b5a34b371cda"
+digest = "sha256:f537013151955123e9d7a631c7bd74d6f8c862b67be7e9ef9ee934c0d3663c14"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-02-da828ef025c8"
+digest = "sha256:c503d498a62c0924b85b9b7a33354425129d2d883249f1f62293297ba856d9f8"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-03-00975eb3412e"
+digest = "sha256:78566f2076ba8fbb71f021683bf12df82467e193ce884817cdb1e150ad82c0c6"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-03-0892182eae85"
+digest = "sha256:ca1096c1f22fad9fc61bc3b7d88f80b9a39c0b39efdf33ba1f4af471402fc067"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-03-3b7e472d00b3"
+digest = "sha256:507bb869de9c5209ef21788f39b5a398effd480b63e32cc82e8a1fbed20f6fc7"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-03-55b51a3422fa"
+digest = "sha256:3b06ea9c19d80f62f815b4d46e19c49fd62f264a71a9eeee04aa27a127533c8c"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-03-7a60e929ac77"
+digest = "sha256:6fe8e0c98f70598fc9ea745453e7c2111a64d0dbf0f5e5626c2ce71e308dc809"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-03-9d2b474b6a2b"
+digest = "sha256:1821c57774e017fb04248821d425e02ba149d3cbc3d2b9a44d7445457494a770"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-03-c08290d8a1ba"
+digest = "sha256:493bfa61e44185f9564664259799825f65e12d821c9bd48c91cb12ef22aaeefa"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-03-f5735920b21a"
+digest = "sha256:17c472d3a701c2b7fe3e21e8e5476118c1cee748b967978eef32cb598a566663"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-03-f870fc3f93c5"
+digest = "sha256:60d5f1fce5db9ceb15757e6e285e091e081b44e2d4327ac1a73041c438029466"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-07-01617c28156a"
+digest = "sha256:dc72cf4528714cefb684365a04ef92239af3e78c44d700f54482c70b32d674e1"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-07-26cb47e6fd11"
+digest = "sha256:ced923e3fbe4ae226c647fd0a745aa707c971c3a268ecc3c35a8c3bd309b1e4e"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-07-70f52f566732"
+digest = "sha256:71d1512b6f6b648cddb7630a4dc174190dcbc74baa22c3efe16cc7a11b2fed49"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-07-8de17d76fab5"
+digest = "sha256:8e50781a4611cde46172455d394d6b09ae67fe5eb306f33419616f9ad12451bd"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-07-b27cd31d034c"
+digest = "sha256:d5497a43b5a3003f9807972efd3b483f63b5096c456fe20f2fb8b43a7214933c"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-07-c5ca9f9e73dd"
+digest = "sha256:7c8de4e4508b8ef41a3e4519427f0dd4a8af8e8ffa2abddb827a4c571183897f"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-07-f30da47c1c3d"
+digest = "sha256:625a3d19c04fe8ce71ee34e2f374442ebfca88d031f9654b400c1b520a4a7350"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-07-f66f3af6c9bc"
+digest = "sha256:be9e12d4128b005aa7daf539c13c8848c14211626560a7fc467846d8e9f25e06"
+
+[[tasks]]
+name = "geotechbench/t4p-sp-07-ffc981cde061"
+digest = "sha256:405bc9874bffcc0215382f7b55b6692bc8abaefbdea0d86b98b25a83957e0621"
+
+[[tasks]]
+name = "geotechbench/t4p-st-01-058126ae0dc2"
+digest = "sha256:afaa7ec717c801fc2fb28833cd6c78ee8c738bba2ecd982dbd04d58a59ef6d0a"
+
+[[tasks]]
+name = "geotechbench/t4p-st-01-2a1cb5b51dc1"
+digest = "sha256:1a4e5296271d2958b49367379a9946a873e9e2aa43534766fce8416c842383ea"
+
+[[tasks]]
+name = "geotechbench/t4p-st-01-2d08ea63aca3"
+digest = "sha256:b1254ad4be02927929ad170a5e24879d0d3a0afe5071a362e89e3931f6bc800f"
+
+[[tasks]]
+name = "geotechbench/t4p-st-01-4ab838e72646"
+digest = "sha256:a2de58a29c72368b9dcd42633851b9fcd6dcd4fb923ea27f0ba2fc5c98d2c0eb"
+
+[[tasks]]
+name = "geotechbench/t4p-st-01-5ee77928ee94"
+digest = "sha256:718c98fab491f2fb0d7d11617b8680e3a810c2af23bbb113ff2983c2993cfca6"
+
+[[tasks]]
+name = "geotechbench/t4p-st-01-814f62afcf1a"
+digest = "sha256:b96660e0d9c0851bf93833cb33b7e4055df943be7c169c0249e88b0b4aaee92d"
+
+[[tasks]]
+name = "geotechbench/t4p-st-01-bd6de1851519"
+digest = "sha256:154f84148e65781275b1bfc13e192fa4263147f177b4288bc16f33bc3e7ee84a"
+
+[[tasks]]
+name = "geotechbench/t4p-st-01-ebe8e7ace9c0"
+digest = "sha256:dae7f5a79be03664d9c919652ba1b109aabed956ab6b0fd7565b09897407a3dd"
+
+[[tasks]]
+name = "geotechbench/t4p-st-01-f9e0dddc2c6f"
+digest = "sha256:34afb485324bf53007e8867e8d3cefcb48de22e6384a40e969a3d26e42002d63"
+
+[[tasks]]
+name = "geotechbench/t4p-st-02-23e26a4ae3a0"
+digest = "sha256:a69f02ce033809a86a9705b1d3e891da846caaf1792c74dea31d0a08847651e4"
+
+[[tasks]]
+name = "geotechbench/t4p-st-02-75690b58e08a"
+digest = "sha256:d6b3f0e4a42db7055cd3caba80d7378405f0de3efd92c04f2854e60d5352ec0c"
+
+[[tasks]]
+name = "geotechbench/t4p-st-02-855b3ba7f6e4"
+digest = "sha256:63aa8862c7c3a14626e820fccef9edc30c363ba4b76db06fa1b63dc682725221"
+
+[[tasks]]
+name = "geotechbench/t4p-st-02-8c72d922ca4c"
+digest = "sha256:2002c15531b57b865977ad718a46f64dd7db9d13eee6c6529e4f22691024b1b0"
+
+[[tasks]]
+name = "geotechbench/t4p-st-02-9d24d411f44c"
+digest = "sha256:0b000b54019a5fe0825e61a270ffd20e133ddc191ecf472e651d1c9ec66eaeed"
+
+[[tasks]]
+name = "geotechbench/t4p-st-02-dbbe52540694"
+digest = "sha256:9703cc4b8d22e530ccf90ffa22d41216b7d18822ac847296cfa5e256f58d2ced"
+
+[[tasks]]
+name = "geotechbench/t4p-st-02-dc534341eff5"
+digest = "sha256:10f4087538e81903e3d833c93fefb1ed5a0b0186b129a3e0e9f54a3c4d70a7a1"
+
+[[tasks]]
+name = "geotechbench/t4p-st-02-ea9d10f5df99"
+digest = "sha256:7b0da2fd8549a1bcbb8e7bf0a306053356587a76fb70e477dedca9497c9e78dd"
+
+[[tasks]]
+name = "geotechbench/t4p-st-02-ff94494c0fe7"
+digest = "sha256:4dd9b43fa23246dda104cd204d45cfe80d85cec0b10b1834472873557f7fcabd"
+
+[[tasks]]
+name = "geotechbench/t4p-st-03-2793dc3bf5b6"
+digest = "sha256:1925abe8bdf46eef45c682998e7b1cb1dd36ff722c3b08983be5f232b3d6b014"
+
+[[tasks]]
+name = "geotechbench/t4p-st-03-34d8d85aba0a"
+digest = "sha256:eb2f6111cf09c77b67c2c213682c71290b5fbebf57594966951510ff6762454d"
+
+[[tasks]]
+name = "geotechbench/t4p-st-03-37da78cad404"
+digest = "sha256:2c0a99411e6c633255b2b23a1cd5c8b4ca3276289b9dad26b6ffcf24b0d47388"
+
+[[tasks]]
+name = "geotechbench/t4p-st-03-579b72d5e94b"
+digest = "sha256:5e0155fa7bcd5985859b407bfe8d347b5b0b54cafced08f7efd8bdf25270c0f7"
+
+[[tasks]]
+name = "geotechbench/t4p-st-03-5a29e0d0f02c"
+digest = "sha256:1d7681f2db8f383b8728abbcb059efb6444830b3dc7b473f2cbd67a58fc1e0fe"
+
+[[tasks]]
+name = "geotechbench/t4p-st-03-7b2b03df9ce3"
+digest = "sha256:26ec40f55defcb3f89f21d27dee76e9e7b7319bf351c6a70a148aa128aa54d83"
+
+[[tasks]]
+name = "geotechbench/t4p-st-03-a29a86df437e"
+digest = "sha256:f3d77461e4fc8bbe01e37ae9fd80930bb7e43223ec18ea58f2d67cdc76d99e4b"
+
+[[tasks]]
+name = "geotechbench/t4p-st-03-b67d5f80a622"
+digest = "sha256:9db1a23a97d354720b1026d6cab4300de75113ac4b6f0a2bf63305ce7ba1c9a7"
+
+[[tasks]]
+name = "geotechbench/t4p-st-03-cbec09850287"
+digest = "sha256:a20fee22997591f53df86db0f4b80d76bdfed894f935834597630bde700b4fee"
+
+[[tasks]]
+name = "geotechbench/t4p-st-04-04e286906e0e"
+digest = "sha256:81ca228a1f0a5b44ff340bcb1a9418e4e20e168a8e6870d576a1bf7e3778ad72"
+
+[[tasks]]
+name = "geotechbench/t4p-st-04-15fcad2c6f65"
+digest = "sha256:13756ba35fcf3fc18be9067adcac48baab2f2bb68aacc7d2734344678f9ab944"
+
+[[tasks]]
+name = "geotechbench/t4p-st-04-1a1e0dd64514"
+digest = "sha256:984cb2db37da814f128df17da835d887d7e80ba66d067aa69006226b293e6715"
+
+[[tasks]]
+name = "geotechbench/t4p-st-04-1ee4d2e189b9"
+digest = "sha256:f3e45dd5be24463ac816f9f54c1c41622655e252b161cc379fd4280a53158752"
+
+[[tasks]]
+name = "geotechbench/t4p-st-04-354544b419ee"
+digest = "sha256:960f51fa82e53d51c539aaea095aa92e6a958d1bb8f4a4a9d949df1794e97871"
+
+[[tasks]]
+name = "geotechbench/t4p-st-04-5abce4ef2bc5"
+digest = "sha256:06eaef24d809f21a3fccb768650c7103ca423e7291fd6ea0096e1ad22e99c964"
+
+[[tasks]]
+name = "geotechbench/t4p-st-04-7af6b45641e6"
+digest = "sha256:4796345536a4e186262176d884659cf575ce7a2c3e975f925784b9c7b34158d8"
+
+[[tasks]]
+name = "geotechbench/t4p-st-04-819f734d9c6b"
+digest = "sha256:2041b5292a96674fe6843e72dac5a5fee424284e58b8572b2bea06a0078fa36c"
+
+[[tasks]]
+name = "geotechbench/t4p-st-04-8270b59fb42f"
+digest = "sha256:2a5fa2c95d53a18828666d9486ec565a9c4ded3376448fb59ec9afcac670154f"
+

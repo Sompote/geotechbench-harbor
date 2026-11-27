@@ -1,0 +1,19 @@
+{
+  "problem_id": "PL-308-7890c214b1f3",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_ult_kips",
+      "tolerance_pct": 2.0,
+      "unit": "kips",
+      "value": 300.5399703318154
+    },
+    {
+      "name": "q_all_kips",
+      "tolerance_pct": 2.0,
+      "unit": "kips",
+      "value": 100.17999011060515
+    }
+  ]
+}

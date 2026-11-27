@@ -1,0 +1,13 @@
+{
+  "problem_id": "ST-207-1f96040fc998",
+  "method": "shallow_settlement",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "s_total_in",
+      "tolerance_pct": 2.0,
+      "unit": "in",
+      "value": 2.216797110283399
+    }
+  ]
+}

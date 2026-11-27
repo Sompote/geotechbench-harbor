@@ -1,0 +1,31 @@
+{
+  "problem_id": "M4P-016",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "p_a_kn_per_m",
+      "tolerance_pct": 0.5,
+      "unit": "kN/m",
+      "value": 106.0
+    },
+    {
+      "name": "p_r_kn_per_m",
+      "tolerance_pct": 0.5,
+      "unit": "kN/m",
+      "value": 599.0
+    },
+    {
+      "name": "q_applied_kpa",
+      "tolerance_pct": 0.5,
+      "unit": "kPa",
+      "value": 116.0
+    },
+    {
+      "name": "fs_sliding",
+      "tolerance_pct": 1.14,
+      "unit": "dimensionless",
+      "value": 4.4
+    }
+  ]
+}

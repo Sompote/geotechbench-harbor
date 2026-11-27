@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-011",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "sigma_vo_unit1a_kpa",
+      "tolerance_pct": 0.5,
+      "unit": "kPa",
+      "value": 44.1
+    },
+    {
+      "name": "sigma_vo_unit1b_kpa",
+      "tolerance_pct": 0.5,
+      "unit": "kPa",
+      "value": 95.6
+    }
+  ]
+}

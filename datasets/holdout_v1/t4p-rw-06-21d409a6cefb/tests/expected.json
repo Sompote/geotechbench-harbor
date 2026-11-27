@@ -1,0 +1,25 @@
+{
+  "problem_id": "T4P-RW-06-21d409a6cefb",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "B_sliding",
+      "tolerance_pct": 2.0,
+      "unit": "ft",
+      "value": 9.452239909387337
+    },
+    {
+      "name": "B_overturning",
+      "tolerance_pct": 2.0,
+      "unit": "ft",
+      "value": 9.366066588418617
+    },
+    {
+      "name": "B_required",
+      "tolerance_pct": 2.0,
+      "unit": "ft",
+      "value": 9.452239909387337
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-RW-08-bc29b3f803cb",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "D_embedment",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 6.152067398981357
+    },
+    {
+      "name": "M_max",
+      "tolerance_pct": 2.0,
+      "unit": "kN\u00b7m/m",
+      "value": 494.1008200155717
+    }
+  ]
+}

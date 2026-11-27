@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-ST-04-7af6b45641e6",
+  "method": "shallow_settlement",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "s_centre",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 264.8511570984583
+    },
+    {
+      "name": "s_edge",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 194.40313921108083
+    }
+  ]
+}

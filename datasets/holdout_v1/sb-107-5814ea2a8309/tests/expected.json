@@ -1,0 +1,25 @@
+{
+  "problem_id": "SB-107-5814ea2a8309",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_all_concentric",
+      "tolerance_pct": 2.0,
+      "unit": "kPa",
+      "value": 734.9204302316508
+    },
+    {
+      "name": "q_all_eccentric",
+      "tolerance_pct": 2.0,
+      "unit": "kPa",
+      "value": 719.2289537947016
+    },
+    {
+      "name": "q_all_governing",
+      "tolerance_pct": 2.0,
+      "unit": "kPa",
+      "value": 719.2289537947016
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "problem_id": "SB-106-0a2fca2f6176",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_all",
+      "tolerance_pct": 2.0,
+      "unit": "kPa",
+      "value": 406.1361064989331
+    },
+    {
+      "kind": "verdict",
+      "name": "verdict",
+      "tolerance_pct": 0.0,
+      "unit": "-",
+      "value": "not adequate"
+    }
+  ]
+}

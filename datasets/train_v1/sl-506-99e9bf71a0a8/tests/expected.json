@@ -1,0 +1,13 @@
+{
+  "problem_id": "SL-506-99e9bf71a0a8",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "beta_max_deg",
+      "tolerance_pct": 2.0,
+      "unit": "deg",
+      "value": 18.176984642508515
+    }
+  ]
+}

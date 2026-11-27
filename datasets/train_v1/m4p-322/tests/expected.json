@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-322",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "i_exit",
+      "tolerance_pct": 4.17,
+      "unit": "dimensionless",
+      "value": 1.2
+    }
+  ]
+}

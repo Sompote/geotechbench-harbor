@@ -1,0 +1,35 @@
+schema_version = "1.3"
+artifacts = ["/app/answers.json", "/app/solution.md"]
+
+[task]
+name = "geotechbench/t4p-st-01-2d08ea63aca3"
+description = "GeoTechBench T4P-ST-01-2d08ea63aca3: shallow foundation settlement design calculation, 4 graded quantities"
+authors = []
+keywords = ["geotechnical-engineering", "shallow-settlement", "holdout-v1"]
+
+[metadata]
+category = "geotechnical_engineering"
+tags = ["shallow_settlement", "holdout_v1", "v04_public.shallow_settlement.clay_footing_width"]
+problem_id = "T4P-ST-01-2d08ea63aca3"
+method = "shallow_settlement"
+family = "v04_public.shallow_settlement.clay_footing_width"
+template_id = "T4P-ST-01"
+split = "holdout_v1"
+dataset_version = "0.4.1"
+tier = "template_v04"
+source = ""
+citation = ""
+license = "none-stated"
+
+[verifier]
+timeout_sec = 120.0
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 900.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 4096
+network_mode = "public"

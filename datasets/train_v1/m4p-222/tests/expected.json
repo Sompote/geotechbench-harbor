@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-222",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "sigma_h_c_lower_ksf",
+      "tolerance_pct": 1.09,
+      "unit": "ksf",
+      "value": 0.46
+    }
+  ]
+}

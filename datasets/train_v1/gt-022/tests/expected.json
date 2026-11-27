@@ -1,0 +1,13 @@
+{
+  "problem_id": "GT-022",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "delta_q_s_tons",
+      "tolerance_pct": 1.0,
+      "unit": "tons",
+      "value": 192.0
+    }
+  ]
+}

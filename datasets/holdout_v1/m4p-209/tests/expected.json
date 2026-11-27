@@ -1,0 +1,43 @@
+{
+  "problem_id": "M4P-209",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "rs_fill_tons",
+      "tolerance_pct": 0.5,
+      "unit": "tons",
+      "value": 39.6
+    },
+    {
+      "name": "rs_sand_tons",
+      "tolerance_pct": 0.5,
+      "unit": "tons",
+      "value": 26.6
+    },
+    {
+      "name": "rs_clay_tons",
+      "tolerance_pct": 0.5,
+      "unit": "tons",
+      "value": 38.5
+    },
+    {
+      "name": "rs_gravel_tons",
+      "tolerance_pct": 0.5,
+      "unit": "tons",
+      "value": 64.5
+    },
+    {
+      "name": "total_rs_tons",
+      "tolerance_pct": 0.5,
+      "unit": "tons",
+      "value": 169.2
+    },
+    {
+      "name": "srd_tons",
+      "tolerance_pct": 0.5,
+      "unit": "tons",
+      "value": 344.7
+    }
+  ]
+}

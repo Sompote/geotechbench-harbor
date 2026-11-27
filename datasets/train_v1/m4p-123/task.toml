@@ -1,0 +1,35 @@
+schema_version = "1.3"
+artifacts = ["/app/answers.json", "/app/solution.md"]
+
+[task]
+name = "geotechbench/m4p-123"
+description = "GeoTechBench M4P-123: shallow foundation settlement design calculation, 1 graded quantity"
+authors = []
+keywords = ["geotechnical-engineering", "shallow-settlement", "train-v1"]
+
+[metadata]
+category = "geotechnical_engineering"
+tags = ["shallow_settlement", "train_v1", "manual_v04.fhwa-nhi-06-088"]
+problem_id = "M4P-123"
+method = "shallow_settlement"
+family = "manual_v04.fhwa-nhi-06-088"
+template_id = "fhwa-nhi-06-088__ex-7-2"
+split = "train_v1"
+dataset_version = "0.4.1"
+tier = "manual_v04"
+source = "fhwa-nhi-06-088"
+citation = "Soils and Foundations Reference Manual, Volume I (FHWA NHI-06-088) (2006), Ex 7-2, p. 7-18"
+license = "public-domain-us-gov"
+
+[verifier]
+timeout_sec = 120.0
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 900.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 4096
+network_mode = "public"

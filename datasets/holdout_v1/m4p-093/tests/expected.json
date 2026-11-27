@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-093",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "fs",
+      "tolerance_pct": 2.64,
+      "unit": "dimensionless",
+      "value": 1.9
+    }
+  ]
+}

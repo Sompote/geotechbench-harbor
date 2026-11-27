@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-343",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_pavlovsky_ft3_per_min_per_ft",
+      "tolerance_pct": 5.0,
+      "unit": "ft3/min/ft",
+      "value": 0.0122
+    }
+  ]
+}

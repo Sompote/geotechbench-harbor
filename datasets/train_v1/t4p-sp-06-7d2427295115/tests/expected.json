@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-SP-06-7d2427295115",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "i_exit",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 0.5763385552098801
+    },
+    {
+      "name": "d_required",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 1.7925825171423826
+    }
+  ]
+}

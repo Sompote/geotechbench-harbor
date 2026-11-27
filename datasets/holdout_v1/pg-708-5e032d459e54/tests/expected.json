@@ -1,0 +1,20 @@
+{
+  "problem_id": "PG-708-5e032d459e54",
+  "method": "pile_group",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "s_in",
+      "tolerance_pct": 2.0,
+      "unit": "in",
+      "value": 0.8223684210526315
+    },
+    {
+      "kind": "verdict",
+      "name": "verdict",
+      "tolerance_pct": 0.0,
+      "unit": "-",
+      "value": "adequate"
+    }
+  ]
+}

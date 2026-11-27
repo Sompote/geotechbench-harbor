@@ -1,0 +1,13 @@
+{
+  "problem_id": "T4P-SL-08-44b639faf8aa",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "FS_bishop",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 1.9451564572755018
+    }
+  ]
+}

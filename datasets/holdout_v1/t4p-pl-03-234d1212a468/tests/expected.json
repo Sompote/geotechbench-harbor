@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-PL-03-234d1212a468",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "k_head",
+      "tolerance_pct": 2.0,
+      "unit": "kN/mm",
+      "value": 190.292218985962
+    },
+    {
+      "name": "w_head",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 2.0473277995768275
+    }
+  ]
+}

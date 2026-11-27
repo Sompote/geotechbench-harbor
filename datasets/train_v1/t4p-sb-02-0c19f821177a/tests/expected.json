@@ -1,0 +1,25 @@
+{
+  "problem_id": "T4P-SB-02-0c19f821177a",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "gamma_eff",
+      "tolerance_pct": 2.0,
+      "unit": "kN/m3",
+      "value": 14.696
+    },
+    {
+      "name": "q_ult",
+      "tolerance_pct": 2.0,
+      "unit": "kPa",
+      "value": 811.8652427817497
+    },
+    {
+      "name": "Q_ult",
+      "tolerance_pct": 2.0,
+      "unit": "kN",
+      "value": 6494.921942253997
+    }
+  ]
+}

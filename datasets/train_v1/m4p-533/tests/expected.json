@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-533",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "k_coefficient",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.40176
+    },
+    {
+      "name": "k_b",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.5103
+    }
+  ]
+}

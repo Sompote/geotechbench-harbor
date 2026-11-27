@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-PG-05-e217d72131fc",
+  "method": "pile_group",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "n_piles",
+      "tolerance_pct": 2.0,
+      "unit": "piles",
+      "value": 9.0
+    },
+    {
+      "name": "Q_group",
+      "tolerance_pct": 2.0,
+      "unit": "kips",
+      "value": 2009.3109955723655
+    }
+  ]
+}

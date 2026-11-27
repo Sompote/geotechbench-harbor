@@ -1,0 +1,20 @@
+{
+  "problem_id": "PG-706-1cbf16bed847",
+  "method": "pile_group",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_all_kn",
+      "tolerance_pct": 2.0,
+      "unit": "kN",
+      "value": 2877.103740522169
+    },
+    {
+      "kind": "verdict",
+      "name": "verdict",
+      "tolerance_pct": 0.0,
+      "unit": "-",
+      "value": "not adequate"
+    }
+  ]
+}

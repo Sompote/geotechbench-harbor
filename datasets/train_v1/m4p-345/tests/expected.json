@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-345",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "a_schaffernak_ft",
+      "tolerance_pct": 1.0,
+      "unit": "ft",
+      "value": 73.0
+    }
+  ]
+}

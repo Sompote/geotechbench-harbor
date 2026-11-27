@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-331",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "k2_over_k1_trial1",
+      "tolerance_pct": 1.0,
+      "unit": "dimensionless",
+      "value": 8.0
+    }
+  ]
+}

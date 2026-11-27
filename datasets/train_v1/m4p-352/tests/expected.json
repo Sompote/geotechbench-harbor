@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-352",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "k_c_design_ft_per_day",
+      "tolerance_pct": 12.5,
+      "unit": "ft/day",
+      "value": 4.0
+    }
+  ]
+}

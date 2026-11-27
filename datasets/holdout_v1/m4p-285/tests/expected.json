@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-285",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "n_qp_general_shear",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 47.24
+    },
+    {
+      "name": "q_bu_general_shear_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 113.4
+    }
+  ]
+}

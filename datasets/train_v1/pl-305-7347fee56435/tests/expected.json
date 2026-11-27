@@ -1,0 +1,25 @@
+{
+  "problem_id": "PL-305-7347fee56435",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_shaft_kn",
+      "tolerance_pct": 2.0,
+      "unit": "kN",
+      "value": 1246.4968878500542
+    },
+    {
+      "name": "q_toe_kn",
+      "tolerance_pct": 2.0,
+      "unit": "kN",
+      "value": 568.4219462022281
+    },
+    {
+      "name": "q_all_kn",
+      "tolerance_pct": 2.0,
+      "unit": "kN",
+      "value": 725.967533620913
+    }
+  ]
+}

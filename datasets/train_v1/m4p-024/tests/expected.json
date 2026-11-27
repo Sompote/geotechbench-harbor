@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-024",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "k0_layer1",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 1.24
+    },
+    {
+      "name": "k0_layer2",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 1.13
+    }
+  ]
+}

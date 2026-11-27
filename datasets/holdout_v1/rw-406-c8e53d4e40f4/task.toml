@@ -1,0 +1,35 @@
+schema_version = "1.3"
+artifacts = ["/app/answers.json", "/app/solution.md"]
+
+[task]
+name = "geotechbench/rw-406-c8e53d4e40f4"
+description = "GeoTechBench RW-406-c8e53d4e40f4: retaining wall design calculation, 3 graded quantities"
+authors = []
+keywords = ["geotechnical-engineering", "retaining-wall", "holdout-v1"]
+
+[metadata]
+category = "geotechnical_engineering"
+tags = ["retaining_wall", "holdout_v1", "retaining_v03.cantilever_governing"]
+problem_id = "RW-406-c8e53d4e40f4"
+method = "retaining_wall"
+family = "retaining_v03.cantilever_governing"
+template_id = "RW-406"
+split = "holdout_v1"
+dataset_version = "0.4.1"
+tier = ""
+source = ""
+citation = ""
+license = "none-stated"
+
+[verifier]
+timeout_sec = 120.0
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 900.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 4096
+network_mode = "public"

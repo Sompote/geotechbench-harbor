@@ -1,0 +1,20 @@
+{
+  "problem_id": "SP-608-2719f994f20a",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "fs_piping",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 2.238692018811557
+    },
+    {
+      "kind": "verdict",
+      "name": "verdict",
+      "tolerance_pct": 0.0,
+      "unit": "-",
+      "value": "adequate"
+    }
+  ]
+}

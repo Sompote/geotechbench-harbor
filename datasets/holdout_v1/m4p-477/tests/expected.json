@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-477",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "alpha_prime_deg",
+      "tolerance_pct": 0.5,
+      "unit": "deg",
+      "value": 59.22
+    },
+    {
+      "name": "y_p_v_ft",
+      "tolerance_pct": 0.5,
+      "unit": "ft",
+      "value": 17.15
+    }
+  ]
+}

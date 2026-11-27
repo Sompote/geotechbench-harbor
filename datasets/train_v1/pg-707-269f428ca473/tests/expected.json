@@ -1,0 +1,13 @@
+{
+  "problem_id": "PG-707-269f428ca473",
+  "method": "pile_group",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "s_req_m",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 1.9958520336635637
+    }
+  ]
+}

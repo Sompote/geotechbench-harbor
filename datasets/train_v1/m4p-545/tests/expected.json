@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-545",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "allowable_t_undrained_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 12.24
+    },
+    {
+      "name": "allowable_t_drained_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 5.24
+    }
+  ]
+}

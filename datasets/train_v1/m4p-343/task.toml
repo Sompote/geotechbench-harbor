@@ -1,0 +1,35 @@
+schema_version = "1.3"
+artifacts = ["/app/answers.json", "/app/solution.md"]
+
+[task]
+name = "geotechbench/m4p-343"
+description = "GeoTechBench M4P-343: seepage design calculation, 1 graded quantity"
+authors = []
+keywords = ["geotechnical-engineering", "seepage", "train-v1"]
+
+[metadata]
+category = "geotechnical_engineering"
+tags = ["seepage", "train_v1", "manual_v04.usace-em-1110-2-1901"]
+problem_id = "M4P-343"
+method = "seepage"
+family = "manual_v04.usace-em-1110-2-1901"
+template_id = "usace-em-1110-2-1901__fig-6-8"
+split = "train_v1"
+dataset_version = "0.4.1"
+tier = "manual_v04"
+source = "usace-em-1110-2-1901"
+citation = "EM 1110-2-1901 Seepage Analysis and Control for Dams (1986), Fig 6-8, p. 6-2, 6-7, 6-8, 6-9"
+license = "public-domain-us-gov"
+
+[verifier]
+timeout_sec = 120.0
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 900.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 4096
+network_mode = "public"

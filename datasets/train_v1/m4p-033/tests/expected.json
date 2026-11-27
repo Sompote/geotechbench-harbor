@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-033",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "alpha",
+      "tolerance_pct": 1.14,
+      "unit": "dimensionless",
+      "value": 0.44
+    }
+  ]
+}

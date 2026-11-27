@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-282",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "dr_percent",
+      "tolerance_pct": 1.0,
+      "unit": "percent",
+      "value": 59.0
+    }
+  ]
+}

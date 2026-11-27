@@ -1,0 +1,37 @@
+{
+  "problem_id": "M4P-523",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "p_ab_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 24.06
+    },
+    {
+      "name": "p_de_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 3.5576
+    },
+    {
+      "name": "p_b_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 1.7771
+    },
+    {
+      "name": "p_d_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 1.1035
+    },
+    {
+      "name": "p_e_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 1.2683
+    }
+  ]
+}

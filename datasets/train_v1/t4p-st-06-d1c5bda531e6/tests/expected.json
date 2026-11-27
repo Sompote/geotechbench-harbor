@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-ST-06-d1c5bda531e6",
+  "method": "shallow_settlement",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_allow_settlement",
+      "tolerance_pct": 2.0,
+      "unit": "kPa",
+      "value": 166.7671278617442
+    },
+    {
+      "name": "settlement_at_q",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 16.72984008758747
+    }
+  ]
+}

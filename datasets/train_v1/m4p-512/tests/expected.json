@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-512",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "k",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.3589
+    },
+    {
+      "name": "k1",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.6082
+    }
+  ]
+}

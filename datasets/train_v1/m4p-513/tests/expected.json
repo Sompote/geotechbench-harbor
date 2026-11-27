@@ -1,0 +1,31 @@
+{
+  "problem_id": "M4P-513",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "h_bd_ft",
+      "tolerance_pct": 0.5,
+      "unit": "ft",
+      "value": 9.76
+    },
+    {
+      "name": "p_c_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 0.1723
+    },
+    {
+      "name": "p_d_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 0.4204
+    },
+    {
+      "name": "p_e_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 1.4597
+    }
+  ]
+}

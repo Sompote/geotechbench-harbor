@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-543",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "soil_force_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 5.34
+    },
+    {
+      "name": "sum_v_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 12.51
+    },
+    {
+      "name": "x_r_ft",
+      "tolerance_pct": 0.5,
+      "unit": "ft",
+      "value": 7.87
+    }
+  ]
+}

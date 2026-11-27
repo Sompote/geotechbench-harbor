@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-294",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_bu_cpt_bg_ksf",
+      "tolerance_pct": 8.34,
+      "unit": "ksf",
+      "value": 60.0
+    }
+  ]
+}

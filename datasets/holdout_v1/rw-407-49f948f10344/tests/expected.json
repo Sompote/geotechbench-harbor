@@ -1,0 +1,19 @@
+{
+  "problem_id": "RW-407-49f948f10344",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "p_h_knm",
+      "tolerance_pct": 2.0,
+      "unit": "kN/m",
+      "value": 92.97292638123513
+    },
+    {
+      "name": "fs_sliding",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 1.2327050985428039
+    }
+  ]
+}

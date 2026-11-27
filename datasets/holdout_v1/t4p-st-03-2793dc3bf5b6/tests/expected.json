@@ -1,0 +1,31 @@
+{
+  "problem_id": "T4P-ST-03-2793dc3bf5b6",
+  "method": "shallow_settlement",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "s_single_layer",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 441.40659558953905
+    },
+    {
+      "name": "s_sublayers",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 547.8996553167605
+    },
+    {
+      "name": "t_50",
+      "tolerance_pct": 2.0,
+      "unit": "yr",
+      "value": 1.2123076923076923
+    },
+    {
+      "name": "t_90",
+      "tolerance_pct": 2.0,
+      "unit": "yr",
+      "value": 5.218461538461538
+    }
+  ]
+}

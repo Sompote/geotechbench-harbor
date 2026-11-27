@@ -1,0 +1,33 @@
+# Geotechnical design problem T4P-SB-02-20cc4e5a1c06
+
+You are a senior geotechnical engineer. Solve the design problem below. List the given data
+with units, name the method and the source equations, compute each intermediate quantity with
+its unit, and check the result for reasonableness. Follow any office rules or conventions stated
+in the problem exactly, and keep enough significant figures in intermediate steps.
+
+## Problem
+
+Relative density, from the CPT records, is 66 %; its φ_c is 32°. Rectangular pad, width 1.4 m and length 2.1 m, bears at 1.4 m beneath the surface.
+Soil: dense quartz sand with c′ = 0; its unit weight is 18.6 kN/m³ above the water and 20.9 kN/m³ in it. Piezometers put the water table 3.5 m down.
+
+Neglect inclination factors. Begin with σ′_mp, 20 p_A times (1 − 0.32 B/L) times (γ_eff B/p_A) to the power 0.7 (p_A = 100 kPa). φ′_p − φ_c = A_ψ I_R. The dilatancy index I_R = −1 + I_D [10 − ln(100 σ′_mp / p_A)]. A_ψ = (L/B + 8)/3. For the soil under the footing γ_eff is: for D ≤ z_w ≤ D + B, the straight-line γ_b + (γ − γ_b)(z_w − D)/B; γ_sat − 9.81 kN/m³ (water above the base, z_w < D); the moist γ (water deeper than the mechanism, z_w > D + B); the surcharge is the moist γ times D. Shape and depth: apply the Lyamin et al. (2007) shape and depth factors, d_γ = 1 on the γ term and d_q = (0.0036 φ′_p + 0.393)/(D/B)^0.27 + 1; s_γ − 1 = (0.0336φ′_p − 1) B/L; s_q = 1 + (0.098φ′_p − 1.64)(D/B)^(0.7 − 0.01φ′_p)(B/L)^(1 − 0.16 D/B), (φ′_p in °), and N_γ = (N_q − 0.6) tan(1.33φ′_p). Give the unit weight gamma_eff in kN/m³, q_ult as the gross limit unit bearing capacity (kPa) and Q_ult (kN).
+
+## Quantities to report
+
+- `gamma_eff`: number in kN/m3
+- `q_ult`: number in kPa
+- `Q_ult`: number in kN
+
+## What to hand in
+
+Write the final answers to `/app/answers.json` as one JSON object of this form:
+
+```json
+{"answers": {"gamma_eff": 0.0, "q_ult": 0.0, "Q_ult": 0.0}}
+```
+
+Give numbers in the requested unit without the unit text, and verdicts as exactly
+`"adequate"` or `"not adequate"`. Each number is graded against a reference value within a
+tight relative tolerance, and the task passes only if every quantity passes. Python 3 with
+numpy and scipy is installed if you want to calculate with code. You may also write your
+working to `/app/solution.md`; it is kept with the run but not graded.

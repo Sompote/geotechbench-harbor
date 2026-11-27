@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-ST-07-a919922a1f3a",
+  "method": "shallow_settlement",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "delta_sigma_eff",
+      "tolerance_pct": 2.0,
+      "unit": "kPa",
+      "value": 45.70500000000001
+    },
+    {
+      "name": "settlement",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 114.04361490187688
+    }
+  ]
+}

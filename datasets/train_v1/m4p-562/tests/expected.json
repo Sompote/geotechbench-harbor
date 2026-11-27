@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-562",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "gamma_eff_kcf",
+      "tolerance_pct": 0.5,
+      "unit": "kcf",
+      "value": 0.0273
+    },
+    {
+      "name": "k0",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.658
+    },
+    {
+      "name": "p_o_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 0.1437
+    }
+  ]
+}

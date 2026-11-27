@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-032",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "su_ciuc_psf",
+      "tolerance_pct": 0.5,
+      "unit": "psf",
+      "value": 2571.0
+    }
+  ]
+}

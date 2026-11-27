@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-PG-08-89d85e3ec06d",
+  "method": "pile_group",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "z_neutral",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 15.234131399091638
+    },
+    {
+      "name": "dragload",
+      "tolerance_pct": 2.0,
+      "unit": "kN",
+      "value": 773.8756782143323
+    }
+  ]
+}

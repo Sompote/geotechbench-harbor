@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-132",
+  "method": "shallow_settlement",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "t90_days",
+      "tolerance_pct": 0.5,
+      "unit": "days",
+      "value": 424.0
+    }
+  ]
+}

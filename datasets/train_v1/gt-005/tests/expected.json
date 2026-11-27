@@ -1,0 +1,13 @@
+{
+  "problem_id": "GT-005",
+  "method": "shallow_settlement",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "p_o_psf",
+      "tolerance_pct": 0.5,
+      "unit": "psf",
+      "value": 2145.0
+    }
+  ]
+}

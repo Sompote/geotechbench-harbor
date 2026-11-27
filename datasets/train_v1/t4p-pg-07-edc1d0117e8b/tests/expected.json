@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-PG-07-edc1d0117e8b",
+  "method": "pile_group",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "s_over_d_unit_efficiency",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 2.0080397139019923
+    },
+    {
+      "name": "Q_group_at_s",
+      "tolerance_pct": 2.0,
+      "unit": "kN",
+      "value": 27740.940537113805
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-572",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "p_o_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 0.275
+    },
+    {
+      "name": "p_w_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 61.88
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-491",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "alpha2_deg",
+      "tolerance_pct": 1.52,
+      "unit": "deg",
+      "value": 33.0
+    }
+  ]
+}

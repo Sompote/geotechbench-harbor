@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-201",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "rs_sand_tons",
+      "tolerance_pct": 1.0,
+      "unit": "tons",
+      "value": 9.6
+    },
+    {
+      "name": "rs_clay_tons",
+      "tolerance_pct": 0.5,
+      "unit": "tons",
+      "value": 43.1
+    },
+    {
+      "name": "rs_gravel_tons",
+      "tolerance_pct": 1.0,
+      "unit": "tons",
+      "value": 9.9
+    }
+  ]
+}

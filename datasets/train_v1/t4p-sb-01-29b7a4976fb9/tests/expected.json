@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-SB-01-29b7a4976fb9",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_ult_meyerhof",
+      "tolerance_pct": 2.0,
+      "unit": "kPa",
+      "value": 5301.347329948052
+    },
+    {
+      "name": "q_ult_hansen",
+      "tolerance_pct": 2.0,
+      "unit": "kPa",
+      "value": 4031.5641042599545
+    }
+  ]
+}

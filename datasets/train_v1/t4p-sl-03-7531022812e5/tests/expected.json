@@ -1,0 +1,25 @@
+{
+  "problem_id": "T4P-SL-03-7531022812e5",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "A_xc",
+      "tolerance_pct": 2.0,
+      "unit": "m3",
+      "value": 153.2268151600543
+    },
+    {
+      "name": "arc_angle",
+      "tolerance_pct": 2.0,
+      "unit": "rad",
+      "value": 1.2752504154465043
+    },
+    {
+      "name": "FS",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 2.3313796639981947
+    }
+  ]
+}

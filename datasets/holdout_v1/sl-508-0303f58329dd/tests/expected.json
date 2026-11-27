@@ -1,0 +1,25 @@
+{
+  "problem_id": "SL-508-0303f58329dd",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "fs_oms",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 1.2992460960480803
+    },
+    {
+      "name": "fs_bishop",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 1.3374636367781292
+    },
+    {
+      "name": "fs_governing",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 1.2992460960480803
+    }
+  ]
+}

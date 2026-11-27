@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-159",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "ph_27ft_psf",
+      "tolerance_pct": 1.0,
+      "unit": "psf",
+      "value": 6.0
+    },
+    {
+      "name": "ph_30ft_psf",
+      "tolerance_pct": 1.05,
+      "unit": "psf",
+      "value": 4.8
+    }
+  ]
+}

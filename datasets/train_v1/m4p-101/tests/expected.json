@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-101",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "p_d_psf",
+      "tolerance_pct": 1.2,
+      "unit": "psf",
+      "value": 4200.0
+    }
+  ]
+}

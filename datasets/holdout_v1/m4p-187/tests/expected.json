@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-187",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "kp",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 3.85
+    },
+    {
+      "name": "pp1_ksf",
+      "tolerance_pct": 2.39,
+      "unit": "ksf",
+      "value": 2.1
+    },
+    {
+      "name": "pp2_ksf",
+      "tolerance_pct": 1.62,
+      "unit": "ksf",
+      "value": 3.1
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "problem_id": "GT-007",
+  "method": "shallow_settlement",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "s_i_in",
+      "tolerance_pct": 1.0,
+      "unit": "in",
+      "value": 0.156
+    }
+  ]
+}

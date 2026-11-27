@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-229",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "m_design_ft_kips",
+      "tolerance_pct": 0.5,
+      "unit": "ft-kips",
+      "value": 72.1
+    },
+    {
+      "name": "f_s_psi",
+      "tolerance_pct": 0.5,
+      "unit": "psi",
+      "value": 22600.0
+    }
+  ]
+}

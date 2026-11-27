@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-234",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_all_ksf",
+      "tolerance_pct": 2.0,
+      "unit": "ksf",
+      "value": 2.5
+    }
+  ]
+}

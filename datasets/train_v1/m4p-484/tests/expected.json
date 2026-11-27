@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-484",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "alpha_crit_deg",
+      "tolerance_pct": 1.73,
+      "unit": "deg",
+      "value": 29.0
+    },
+    {
+      "name": "p_ee_kips_per_ft",
+      "tolerance_pct": 0.5,
+      "unit": "kips/ft",
+      "value": 8.36
+    }
+  ]
+}

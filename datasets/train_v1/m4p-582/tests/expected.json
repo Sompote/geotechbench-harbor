@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-582",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "delta_static_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 2.168
+    },
+    {
+      "name": "y_delta_static_ft",
+      "tolerance_pct": 0.5,
+      "unit": "ft",
+      "value": 6.077
+    }
+  ]
+}

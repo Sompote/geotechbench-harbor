@@ -1,0 +1,25 @@
+{
+  "problem_id": "T4P-RW-05-e2555d1bd6cd",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "FS_sliding",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 2.1868887833154513
+    },
+    {
+      "name": "FS_overturning",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 4.352017479234728
+    },
+    {
+      "name": "z_w_limit",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 2.308595382424528
+    }
+  ]
+}

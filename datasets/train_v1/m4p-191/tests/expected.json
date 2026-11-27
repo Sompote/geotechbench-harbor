@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-191",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_term_psf",
+      "tolerance_pct": 0.5,
+      "unit": "psf",
+      "value": 20083.0
+    },
+    {
+      "name": "gamma_term_psf",
+      "tolerance_pct": 0.5,
+      "unit": "psf",
+      "value": 16526.0
+    },
+    {
+      "name": "q_ult_psf",
+      "tolerance_pct": 0.5,
+      "unit": "psf",
+      "value": 36609.0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "problem_id": "T4P-RW-07-fef0b5c382b6",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "P_active",
+      "tolerance_pct": 2.0,
+      "unit": "kN/m",
+      "value": 242.24028950680065
+    },
+    {
+      "name": "z_tension",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 2.067630057803468
+    }
+  ]
+}

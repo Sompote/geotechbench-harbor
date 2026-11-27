@@ -1,0 +1,35 @@
+schema_version = "1.3"
+artifacts = ["/app/answers.json", "/app/solution.md"]
+
+[task]
+name = "geotechbench/m4p-068"
+description = "GeoTechBench M4P-068: shallow foundation bearing capacity design calculation, 1 graded quantity"
+authors = []
+keywords = ["geotechnical-engineering", "shallow-bearing", "train-v1"]
+
+[metadata]
+category = "geotechnical_engineering"
+tags = ["shallow_bearing", "train_v1", "manual_v04.fhwa-gec-11-vol2"]
+problem_id = "M4P-068"
+method = "shallow_bearing"
+family = "manual_v04.fhwa-gec-11-vol2"
+template_id = "fhwa-gec-11-vol2__e2"
+split = "train_v1"
+dataset_version = "0.4.1"
+tier = "manual_v04"
+source = "fhwa-gec-11-vol2"
+citation = "Geotechnical Engineering Circular No. 11 - Design and Construction of MSE Walls and Reinforced Soil Slopes, Vol. II (FHWA-NHI-10-025) (2010), E2, p. E2-1, E2-2, E2-3, E2-4, E2-5, E2-6, E2-7, E2-8, E2-9, E2-10"
+license = "public-domain-us-gov"
+
+[verifier]
+timeout_sec = 120.0
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 900.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 4096
+network_mode = "public"

@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-401",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "r_u",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.325
+    }
+  ]
+}

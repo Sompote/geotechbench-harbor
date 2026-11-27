@@ -1,0 +1,43 @@
+{
+  "problem_id": "M4P-473",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "k1_dry",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.44035
+    },
+    {
+      "name": "k_b_dry",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.48682
+    },
+    {
+      "name": "k_v_dry",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.84968
+    },
+    {
+      "name": "k1_wet",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.34787
+    },
+    {
+      "name": "k_b_wet",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 0.36995
+    },
+    {
+      "name": "k_v_wet",
+      "tolerance_pct": 0.5,
+      "unit": "dimensionless",
+      "value": 1.17407
+    }
+  ]
+}

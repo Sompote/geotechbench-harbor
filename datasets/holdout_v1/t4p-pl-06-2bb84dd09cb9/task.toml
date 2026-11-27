@@ -1,0 +1,35 @@
+schema_version = "1.3"
+artifacts = ["/app/answers.json", "/app/solution.md"]
+
+[task]
+name = "geotechbench/t4p-pl-06-2bb84dd09cb9"
+description = "GeoTechBench T4P-PL-06-2bb84dd09cb9: pile axial capacity design calculation, 2 graded quantities"
+authors = []
+keywords = ["geotechnical-engineering", "pile-axial", "holdout-v1"]
+
+[metadata]
+category = "geotechnical_engineering"
+tags = ["pile_axial", "holdout_v1", "v04_public.pile_axial.required_length"]
+problem_id = "T4P-PL-06-2bb84dd09cb9"
+method = "pile_axial"
+family = "v04_public.pile_axial.required_length"
+template_id = "T4P-PL-06"
+split = "holdout_v1"
+dataset_version = "0.4.1"
+tier = "template_v04"
+source = ""
+citation = ""
+license = "none-stated"
+
+[verifier]
+timeout_sec = 120.0
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 900.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 4096
+network_mode = "public"

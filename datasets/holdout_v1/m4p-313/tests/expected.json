@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-313",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_over_k_ft",
+      "tolerance_pct": 5.0,
+      "unit": "ft",
+      "value": 1.71
+    }
+  ]
+}

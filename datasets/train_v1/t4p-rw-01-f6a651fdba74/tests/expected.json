@@ -1,0 +1,25 @@
+{
+  "problem_id": "T4P-RW-01-f6a651fdba74",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "P_active",
+      "tolerance_pct": 2.0,
+      "unit": "kN/m",
+      "value": 260.4607543269595
+    },
+    {
+      "name": "h_resultant",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 4.488920045549381
+    },
+    {
+      "name": "P_water",
+      "tolerance_pct": 2.0,
+      "unit": "kN/m",
+      "value": 461.51144999999997
+    }
+  ]
+}

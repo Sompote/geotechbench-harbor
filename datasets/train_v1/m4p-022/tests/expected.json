@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-022",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "phi_layer1_deg",
+      "tolerance_pct": 1.32,
+      "unit": "degrees",
+      "value": 38.0
+    },
+    {
+      "name": "phi_layer2_deg",
+      "tolerance_pct": 1.22,
+      "unit": "degrees",
+      "value": 41.0
+    }
+  ]
+}

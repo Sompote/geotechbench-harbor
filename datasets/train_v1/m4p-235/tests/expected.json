@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-235",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "q_ult_db1_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 14.0
+    },
+    {
+      "name": "q_ult_db0_ksf",
+      "tolerance_pct": 1.0,
+      "unit": "ksf",
+      "value": 9.1
+    },
+    {
+      "name": "q_ult_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 11.9
+    }
+  ]
+}

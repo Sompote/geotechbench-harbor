@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-254",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "t_ult_kips",
+      "tolerance_pct": 0.9,
+      "unit": "kips",
+      "value": 54.31
+    }
+  ]
+}

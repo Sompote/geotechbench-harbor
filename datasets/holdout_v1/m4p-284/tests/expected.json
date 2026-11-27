@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-284",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "i_rr",
+      "tolerance_pct": 4.3,
+      "unit": "dimensionless",
+      "value": 42.6
+    },
+    {
+      "name": "n_qp_vesic",
+      "tolerance_pct": 2.5,
+      "unit": "dimensionless",
+      "value": 60.7
+    },
+    {
+      "name": "q_bu_vesic_ksf",
+      "tolerance_pct": 2.9,
+      "unit": "ksf",
+      "value": 88.9
+    }
+  ]
+}

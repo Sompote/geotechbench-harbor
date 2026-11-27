@@ -1,0 +1,13 @@
+{
+  "problem_id": "GT-020",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "sigma_v_eff_tsf",
+      "tolerance_pct": 0.5,
+      "unit": "tsf",
+      "value": 1.769
+    }
+  ]
+}

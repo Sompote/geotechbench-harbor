@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-188",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "pp_kips",
+      "tolerance_pct": 2.78,
+      "unit": "kips",
+      "value": 18.0
+    },
+    {
+      "name": "cl_kips",
+      "tolerance_pct": 1.0,
+      "unit": "kips",
+      "value": 66.0
+    }
+  ]
+}

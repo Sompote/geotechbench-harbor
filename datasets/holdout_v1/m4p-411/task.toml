@@ -1,0 +1,35 @@
+schema_version = "1.3"
+artifacts = ["/app/answers.json", "/app/solution.md"]
+
+[task]
+name = "geotechbench/m4p-411"
+description = "GeoTechBench M4P-411: slope stability design calculation, 1 graded quantity"
+authors = []
+keywords = ["geotechnical-engineering", "slope-stability", "holdout-v1"]
+
+[metadata]
+category = "geotechnical_engineering"
+tags = ["slope_stability", "holdout_v1", "manual_v04.usace-em-1110-2-1902"]
+problem_id = "M4P-411"
+method = "slope_stability"
+family = "manual_v04.usace-em-1110-2-1902"
+template_id = "usace-em-1110-2-1902__app-f-sec-f-5"
+split = "holdout_v1"
+dataset_version = "0.4.1"
+tier = "manual_v04"
+source = "usace-em-1110-2-1902"
+citation = "Slope Stability (EM 1110-2-1902) (2003), App F Sec F-5, p. F-19, F-20, F-21, F-22, F-23, F-24, F-25"
+license = "public-domain-us-gov"
+
+[verifier]
+timeout_sec = 120.0
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 900.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 4096
+network_mode = "public"

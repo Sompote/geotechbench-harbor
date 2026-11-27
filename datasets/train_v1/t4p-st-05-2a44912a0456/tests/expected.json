@@ -1,0 +1,25 @@
+{
+  "problem_id": "T4P-ST-05-2a44912a0456",
+  "method": "shallow_settlement",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "s_ult",
+      "tolerance_pct": 2.0,
+      "unit": "mm",
+      "value": 161.4297573252783
+    },
+    {
+      "name": "U_target",
+      "tolerance_pct": 2.0,
+      "unit": "-",
+      "value": 0.45220906733388816
+    },
+    {
+      "name": "t_target",
+      "tolerance_pct": 2.0,
+      "unit": "yr",
+      "value": 0.7867281831049387
+    }
+  ]
+}

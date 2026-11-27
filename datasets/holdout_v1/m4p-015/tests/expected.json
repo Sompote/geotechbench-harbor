@@ -1,0 +1,25 @@
+{
+  "problem_id": "M4P-015",
+  "method": "shallow_bearing",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "settlement_unit1a_mm",
+      "tolerance_pct": 3.13,
+      "unit": "mm",
+      "value": 16.0
+    },
+    {
+      "name": "settlement_unit1b_mm",
+      "tolerance_pct": 12.5,
+      "unit": "mm",
+      "value": 4.0
+    },
+    {
+      "name": "settlement_total_mm",
+      "tolerance_pct": 25.0,
+      "unit": "mm",
+      "value": 20.0
+    }
+  ]
+}

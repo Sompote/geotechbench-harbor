@@ -1,0 +1,19 @@
+{
+  "problem_id": "M4P-478",
+  "method": "retaining_wall",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "y_p_ee_ft",
+      "tolerance_pct": 0.5,
+      "unit": "ft",
+      "value": 11.12
+    },
+    {
+      "name": "p_c_ksf",
+      "tolerance_pct": 0.5,
+      "unit": "ksf",
+      "value": 0.7114
+    }
+  ]
+}

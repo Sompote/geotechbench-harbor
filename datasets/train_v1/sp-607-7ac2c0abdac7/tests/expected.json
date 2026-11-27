@@ -1,0 +1,19 @@
+{
+  "problem_id": "SP-607-7ac2c0abdac7",
+  "method": "seepage",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "h_point_m",
+      "tolerance_pct": 2.0,
+      "unit": "m",
+      "value": 1.0499999999999998
+    },
+    {
+      "name": "uplift_kn_m",
+      "tolerance_pct": 2.0,
+      "unit": "kN/m",
+      "value": 360.51750000000004
+    }
+  ]
+}

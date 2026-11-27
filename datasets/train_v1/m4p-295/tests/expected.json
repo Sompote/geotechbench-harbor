@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-295",
+  "method": "pile_axial",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "f_s_clay_alpha_ksf",
+      "tolerance_pct": 4.17,
+      "unit": "ksf",
+      "value": 1.2
+    }
+  ]
+}

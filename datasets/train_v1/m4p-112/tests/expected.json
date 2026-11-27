@@ -1,0 +1,13 @@
+{
+  "problem_id": "M4P-112",
+  "method": "slope_stability",
+  "dataset_version": "0.4.1",
+  "answers": [
+    {
+      "name": "p_a_kips",
+      "tolerance_pct": 0.5,
+      "unit": "kips",
+      "value": 16.5
+    }
+  ]
+}
