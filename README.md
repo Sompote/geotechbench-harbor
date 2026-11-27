@@ -27,7 +27,7 @@ terminal with Python, numpy and scipy, and a verifier grades the file the agent 
 
 ```bash
 uv tool install harbor                 # or: pip install harbor
-git clone <this repository> geotechbench && cd geotechbench
+git clone https://github.com/Sompote/geotechbench-harbor.git && cd geotechbench-harbor
 
 # check the setup: the oracle must score 1.000 and the no-op agent 0.000
 harbor run -p datasets/holdout_v1 -a oracle -l 10
