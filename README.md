@@ -45,6 +45,27 @@ harbor run -p datasets/holdout_v1/gt-001 -a oracle
 harbor run -p datasets/holdout_v1 -i 'm4p-4*' -a oracle
 ```
 
+### Claude Code on your own login, without an API key
+
+Harbor's built-in `claude-code` agent installs the CLI inside every container and therefore needs
+`ANTHROPIC_API_KEY` or `CLAUDE_CODE_OAUTH_TOKEN`. The agent in `agents/claude_code_host.py`
+instead runs `claude -p` on the host, where you are already logged in, so the calls count against
+your Claude plan. Its Bash tool is limited to a wrapper, `cx`, that runs each command in the task
+container with `docker exec`, and its Write tool works in a scratch folder that `cx` copies into
+the container's `/app` before each command. The model's code therefore runs only inside the
+container, and file contents never pass through Claude Code's Bash safety check, which rejects
+commands containing Python dict literals.
+
+```bash
+PYTHONPATH=. harbor run -p datasets/holdout_v1 -a agents.claude_code_host:ClaudeCodeHost \
+    -m opus -n 3 -l 10                       # --ak effort=high --ak max_turns=60 are the defaults
+```
+
+A 10-task test on 27 Nov 2026 (one task from each of the seven methods plus three more, Claude
+Opus, effort high) passed all 10 tasks in 2 min with three trials in parallel, using 3–4 turns and
+13–34 s per task. The list-price equivalent that Claude Code reports was US$0.07–0.14 per task,
+which is not charged on a subscription. Ten tasks is a smoke test of the pipeline, not a score.
+
 Each job writes `jobs/<job name>/result.json` with the mean reward, plus one folder per trial
 holding the agent trajectory, `answers.json`, `solution.md` when the agent wrote one, and the
 verifier log `verifier/grade.json`, which lists every quantity with its given value, reference,
